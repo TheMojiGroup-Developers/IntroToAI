@@ -414,6 +414,7 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 5924,Star Ocean 5: Integrity and Faithlessness,PS4,2016,Role-Playing,Square Enix,0.06,0.07,0.14,0.02,0.3
 6089,World of Warcraft: Legion,PC,2016,Role-Playing,Activision,0.14,0.12,0,0.02,0.29
 <<<<<<< HEAD
+<<<<<<< HEAD
 3390,Jeopardy!,Wii,2010,Misc,THQ,0.56,0,0,0.03,0.59
 3447,Cabela's Dangerous Hunts 2011,Wii,2010,Sports,Activision,0.53,0.02,0,0.04,0.58
 3500,Tetris Party Deluxe,Wii,2010,Puzzle,Nintendo,0.34,0.17,0.02,0.05,0.58
@@ -428,6 +429,8 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 3654,Tatsunoko vs. Capcom: Ultimate All-Stars,Wii,2010,Fighting,Capcom,0.32,0.16,0.03,0.05,0.55
 3732,Madden NFL 13,Wii,2012,Sports,Electronic Arts,0.51,0,0,0.03,0.54
 =======
+=======
+>>>>>>> parent of b2859d5... Update vgsales.csv
 6126,One Piece: Burning Blood,PS4,2016,Fighting,Namco Bandai Games,0.1,0.08,0.07,0.04,0.28
 6138,Pro Evolution Soccer 2017,PS4,2016,Sports,Konami Digital Entertainment,0.01,0.16,0.09,0.03,0.28
 6205,Dragon Quest Heroes II: Twin Kings and the Prophecy's End,PS4,2016,Action,Square Enix,0,0,0.28,0,0.28
@@ -555,4 +558,7 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 3348,The Golden Compass,Wii,N/A,Action,Sega,0.26,0.28,0,0.07,0.6
 4685,TERA,PC,N/A,Role-Playing,Unknown,0.24,0.12,0,0.05,0.41
 5242,Tomb Raider (2013),PC,N/A,Action,Square Enix,0.06,0.25,0,0.05,0.36
+<<<<<<< HEAD
+>>>>>>> parent of b2859d5... Update vgsales.csv
+=======
 >>>>>>> parent of b2859d5... Update vgsales.csv
