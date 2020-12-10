@@ -11,9 +11,20 @@ path = "C:/Users/Kevin/Documents/GitHub/IntroToAI"
 filename_read = os.path.join(path, "vgsales.csv")
 df = pd.read_csv(filename_read, na_values=['NA', '?'])
 
-print(df.isnull().any())
+## check for null data
+print(df.isnull().any())# Strip non-numeric features from the dataframe
+df = df.select_dtypes(include=['int', 'char'])
+#collect the columns names for non-target features
+result = []
+for x in df.columns:
+    if x != 'NA_Sales':
+        result.append(x)
+   
+X = df[result].values
+y = df['NA_Sales'].values
 
-print(df[:400])
 
-print(df.isnull().any())
+#print to check that this has worked
+print(df[:400]) 
+
 
