@@ -11,10 +11,6 @@ path = "C:/Users/Kevin/Documents/GitHub/IntroToAI"
 filename_read = os.path.join(path, "vgsales.csv")
 df = pd.read_csv(filename_read, na_values=['NA', '?'])
 
-med = df['Year'].median()
-df['Year'] = df['Year'].fillna(med)
-#df = df.dropna() #you can also simply drop NA values
-
 print(df.isnull().any())
 
 print(df[:400])
