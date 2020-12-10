@@ -370,22 +370,50 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 5701,Dragon Ball: XenoVerse,XOne,2015,Fighting,Namco Bandai Games,0.18,0.11,0,0.03,0.31
 5761,Football Manager 2016,PC,2015,Simulation,Sega,0,0.29,0,0.02,0.31
 5764,Disney Infinity 3.0,XOne,2015,Action,Disney Interactive Studios,0.18,0.1,0,0.03,0.31
+222,FIFA 17,PS4,2016,Sports,Electronic Arts,0.28,3.75,0.06,0.69,4.77
+272,Uncharted 4: A Thief's End,PS4,2016,Shooter,Sony Computer Entertainment,1.3,2.07,0.18,0.65,4.2
+352,Tom Clancy's The Division,PS4,2016,Shooter,Ubisoft,1.28,1.61,0.15,0.57,3.61
+772,Far Cry: Primal,PS4,2016,Action,Ubisoft,0.59,1.16,0.06,0.33,2.13
 847,Tom Clancy's The Division,XOne,2016,Shooter,Ubisoft,1.2,0.62,0,0.18,2.01
+1028,Overwatch,PS4,2016,Shooter,Activision,0.64,0.68,0.14,0.26,1.73
+1158,No Man's Sky,PS4,2016,Action,Hello Games,0.58,0.74,0.02,0.26,1.6
+1191,Dark Souls III,PS4,2016,Role-Playing,Namco Bandai Games,0.58,0.44,0.33,0.21,1.56
 1226,FIFA 17,XOne,2016,Sports,Electronic Arts,0.17,1.26,0,0.1,1.53
+1391,Doom (2016),PS4,2016,Shooter,Bethesda Softworks,0.49,0.66,0.02,0.22,1.39
+1630,Madden NFL 17,PS4,2016,Sports,Electronic Arts,0.92,0.08,0,0.23,1.23
+1703,NBA 2K17,PS4,2016,Sports,Take-Two Interactive,0.83,0.14,0,0.22,1.19
+1729,Ratchet & Clank (2016),PS4,2016,Platform,Sony Computer Entertainment,0.32,0.64,0.04,0.18,1.17
+1960,Naruto Shippuden: Ultimate Ninja Storm 4,PS4,2016,Fighting,Namco Bandai Games,0.39,0.41,0.1,0.16,1.06
+2344,EA Sports UFC 2,PS4,2016,Sports,Electronic Arts,0.28,0.47,0,0.14,0.89
 2436,Far Cry: Primal,XOne,2016,Action,Ubisoft,0.46,0.32,0,0.07,0.85
 2446,Overwatch,XOne,2016,Shooter,Activision,0.52,0.25,0,0.08,0.85
+2459,MLB 16: The Show,PS4,2016,Action,Sony Computer Entertainment,0.68,0,0,0.16,0.84
 2507,Madden NFL 17,XOne,2016,Sports,Electronic Arts,0.72,0.02,0,0.09,0.82
+2513,Street Fighter V,PS4,2016,Fighting,Capcom,0.35,0.26,0.08,0.13,0.82
 2993,Doom (2016),XOne,2016,Shooter,Bethesda Softworks,0.39,0.23,0,0.06,0.68
 3147,NBA 2K17,XOne,2016,Sports,Take-Two Interactive,0.54,0.04,0,0.07,0.64
+3151,LEGO Marvel's Avengers,PS4,2016,Action,Warner Bros. Interactive Entertainment,0.25,0.29,0,0.1,0.64
+3748,Lego Star Wars: The Force Awakens,PS4,2016,Action,Warner Bros. Interactive Entertainment,0.14,0.32,0,0.08,0.54
 3929,Quantum Break,XOne,2016,Action,Microsoft Game Studios,0.27,0.19,0.01,0.04,0.51
+4352,Plants vs. Zombies: Garden Warfare 2,PS4,2016,Shooter,Electronic Arts,0.17,0.21,0,0.07,0.45
 4432,Plants vs. Zombies: Garden Warfare 2,XOne,2016,Shooter,Electronic Arts,0.26,0.15,0,0.04,0.44
 4511,Overwatch,PC,2016,Shooter,Activision,0.22,0.18,0,0.04,0.43
 4822,EA Sports UFC 2,XOne,2016,Sports,Electronic Arts,0.23,0.14,0,0.04,0.4
 5017,Forza Horizon 3,XOne,2016,Racing,Microsoft Game Studios,0.15,0.2,0,0.03,0.38
+5098,Life is Strange,PS4,2016,Adventure,Square Enix,0.14,0.15,0.03,0.06,0.37
 5106,Tom Clancy's The Division,PC,2016,Shooter,Ubisoft,0.2,0.14,0,0.03,0.37
+5174,Resident Evil Zero,PS4,2016,Action,Capcom,0.09,0.17,0.05,0.05,0.36
 5270,Dark Souls III,XOne,2016,Role-Playing,Namco Bandai Games,0.23,0.09,0,0.03,0.35
+5428,Persona 5,PS4,2016,Role-Playing,Atlus,0,0,0.34,0,0.34
+5501,Deus Ex: Mankind Divided,PS4,2016,Role-Playing,Square Enix,0.1,0.18,0,0.05,0.33
 5597,LEGO Marvel's Avengers,XOne,2016,Action,Warner Bros. Interactive Entertainment,0.18,0.11,0,0.03,0.32
+5623,TrackMania Turbo,PS4,2016,Action,Ubisoft,0.03,0.24,0,0.05,0.32
+5635,DiRT Rally,PS4,2016,Racing,Codemasters,0.03,0.24,0,0.05,0.32
+5663,Mirror's Edge Catalyst,PS4,2016,Platform,Electronic Arts,0.1,0.14,0.02,0.06,0.32
+5731,Homefront: The Revolution,PS4,2016,Shooter,Deep Silver,0.05,0.19,0.03,0.04,0.31
+5924,Star Ocean 5: Integrity and Faithlessness,PS4,2016,Role-Playing,Square Enix,0.06,0.07,0.14,0.02,0.3
 6089,World of Warcraft: Legion,PC,2016,Role-Playing,Activision,0.14,0.12,0,0.02,0.29
+<<<<<<< HEAD
 3390,Jeopardy!,Wii,2010,Misc,THQ,0.56,0,0,0.03,0.59
 3447,Cabela's Dangerous Hunts 2011,Wii,2010,Sports,Activision,0.53,0.02,0,0.04,0.58
 3500,Tetris Party Deluxe,Wii,2010,Puzzle,Nintendo,0.34,0.17,0.02,0.05,0.58
@@ -399,3 +427,132 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 3639,Harry Potter and the Deathly Hallows - Part 1,Wii,2010,Action,Electronic Arts,0.22,0.28,0,0.05,0.55
 3654,Tatsunoko vs. Capcom: Ultimate All-Stars,Wii,2010,Fighting,Capcom,0.32,0.16,0.03,0.05,0.55
 3732,Madden NFL 13,Wii,2012,Sports,Electronic Arts,0.51,0,0,0.03,0.54
+=======
+6126,One Piece: Burning Blood,PS4,2016,Fighting,Namco Bandai Games,0.1,0.08,0.07,0.04,0.28
+6138,Pro Evolution Soccer 2017,PS4,2016,Sports,Konami Digital Entertainment,0.01,0.16,0.09,0.03,0.28
+6205,Dragon Quest Heroes II: Twin Kings and the Prophecy's End,PS4,2016,Action,Square Enix,0,0,0.28,0,0.28
+6207,UEFA Euro 2016,PS4,2016,Sports,Konami Digital Entertainment,0,0.21,0.03,0.03,0.28
+6382,F1 2016 (Codemasters),PS4,2016,Racing,Codemasters,0.01,0.21,0.01,0.04,0.27
+7074,Rocket League,PS4,2016,Sports,505 Games,0.02,0.14,0,0.07,0.23
+7182,Battleborn,PS4,2016,Shooter,Take-Two Interactive,0.09,0.08,0.01,0.04,0.22
+7222,Dragon Quest Builders: Revive Alefgard,PS4,2016,Role-Playing,Square Enix,0,0,0.22,0,0.22
+7248,Tales of Berseria,PS4,2016,Role-Playing,Namco Bandai Games,0,0,0.22,0,0.22
+7499,Attack on Titan (KOEI),PS4,2016,Action,Tecmo Koei,0.02,0.06,0.11,0.02,0.2
+7566,XCOM 2,PC,2016,Strategy,Take-Two Interactive,0.09,0.1,0,0.02,0.2
+7577,NHL 17,PS4,2016,Sports,Electronic Arts,0.13,0.04,0,0.04,0.2
+7653,BioShock The Collection,PS4,2016,Shooter,Take-Two Interactive,0.05,0.11,0.01,0.03,0.2
+7894,The Heavy Rain and Beyond: Two Souls Collection,PS4,2016,Action,Sony Computer Entertainment,0,0.16,0,0.03,0.19
+8089,Odin Sphere: Leifthrasir,PS4,2016,Role-Playing,Nippon Ichi Software,0.06,0.03,0.07,0.02,0.18
+8140,Doom (2016),PC,2016,Shooter,Bethesda Softworks,0.06,0.1,0,0.01,0.18
+8402,Jikkyou Powerful Pro Baseball 2016,PS4,2016,Sports,Konami Digital Entertainment,0,0,0.17,0,0.17
+8411,Valkyria Chronicles,PS4,2016,Role-Playing,Sega,0.06,0.04,0.05,0.02,0.17
+8659,Yakuza Kiwami,PS4,2016,Adventure,Sega,0,0,0.16,0,0.16
+9252,Far Cry: Primal,PC,2016,Action,Ubisoft,0.04,0.09,0,0.01,0.14
+9880,7 Days to Die,PS4,2016,Action,Telltale Games,0.03,0.07,0,0.02,0.12
+9995,Dead Island Definitive Collection,PS4,2016,Action,Deep Silver,0.02,0.07,0.01,0.02,0.12
+10285,Digimon Story: Cyber Sleuth,PS4,2016,Role-Playing,Namco Bandai Games,0,0.09,0,0.02,0.11
+10593,Total War: WARHAMMER,PC,2016,Strategy,Sega,0,0.1,0,0.01,0.1
+10733,Rise of the Tomb Raider,PC,2016,Adventure,Square Enix,0,0.09,0,0.01,0.1
+10846,Gundam Breaker 3,PS4,2016,Action,Namco Bandai Games,0,0,0.09,0,0.09
+10854,The King of Fighters XIV,PS4,2016,Fighting,Deep Silver,0.04,0.01,0.03,0.01,0.09
+10956,The Idolmaster: Platinum Stars,PS4,2016,Simulation,Namco Bandai Games,0,0,0.09,0,0.09
+11067,Super Robot Wars OG: The Moon Dwellers,PS4,2016,Misc,Namco Bandai Games,0,0,0.09,0,0.09
+11426,Toukiden 2,PS4,2016,Action,Tecmo Koei,0,0,0.08,0,0.08
+11522,MXGP 2,PS4,2016,Racing,Milestone S.r.l.,0.02,0.05,0,0.01,0.08
+11583,Assassin's Creed Chronicles,PS4,2016,Action,Ubisoft,0.01,0.05,0.01,0.01,0.08
+11744,Mega Man Legacy Collection,PS4,2016,Platform,Capcom,0.06,0,0,0.01,0.07
+11843,Teenage Mutant Ninja Turtles: Mutants in Manhattan,PS4,2016,Action,Activision,0.04,0.02,0,0.01,0.07
+11897,Guilty Gear Xrd -Revelator-,PS4,2016,Fighting,PQube,0.02,0,0.05,0,0.07
+12007,Battleborn,PC,2016,Shooter,Take-Two Interactive,0.03,0.03,0,0.01,0.07
+12135,Resident Evil 6,PS4,2016,Shooter,Capcom,0.05,0,0,0.01,0.07
+12390,Song of the Deep,PS4,2016,Action,Insomniac Games,0.05,0,0,0.01,0.06
+12404,Valentino Rossi: The Game,PS4,2016,Racing,Namco Bandai Games,0.01,0.05,0,0.01,0.06
+12525,Destiny: The Collection,PS4,2016,Shooter,Activision,0.01,0.04,0,0.01,0.06
+12646,Project Setsuna,PS4,2016,Role-Playing,Square Enix,0,0,0.06,0,0.06
+12837,Kamen Rider: Battride War Genesis,PS4,2016,Action,Namco Bandai Games,0,0,0.05,0,0.05
+12901,Dark Souls III,PC,2016,Role-Playing,Namco Bandai Games,0,0.05,0,0,0.05
+12927,ZombiU,PS4,2016,Action,Ubisoft,0,0.04,0.01,0.01,0.05
+12940,FIFA 17,PC,2016,Sports,Electronic Arts,0,0.05,0,0,0.05
+12989,Dead or Alive Xtreme 3: Fortune,PS4,2016,Sports,Tecmo Koei,0,0,0.05,0,0.05
+13031,Assetto Corsa,PS4,2016,Racing,505 Games,0,0.04,0,0.01,0.05
+13046,Street Fighter V,PC,2016,Fighting,Capcom,0,0.05,0,0,0.05
+13097,The Technomancer,PS4,2016,Role-Playing,Focus Home Interactive,0.01,0.03,0,0.01,0.05
+13102,Mirror's Edge Catalyst,PC,2016,Platform,Electronic Arts,0.01,0.03,0,0.01,0.05
+13172,Pro Cycling Manager 2016,PS4,2016,Sports,Focus Home Interactive,0,0.04,0,0.01,0.05
+13437,Mighty No. 9,PS4,2016,Platform,Deep Silver,0.04,0,0,0.01,0.05
+13438,Plants vs. Zombies: Garden Warfare 2,PC,2016,Shooter,Electronic Arts,0,0.04,0,0,0.05
+13489,Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden,PS4,2016,Misc,Tecmo Koei,0,0,0.04,0,0.04
+13510,Sébastien Loeb Rally Evo,PS4,2016,Racing,Milestone S.r.l,0,0.04,0,0.01,0.04
+13564,Life is Strange,PC,2016,Adventure,Square Enix,0.01,0.03,0,0,0.04
+13616,Utawarerumono: Futari no Hakuoro,PS4,2016,Misc,Aqua Plus,0,0,0.04,0,0.04
+13649,Hitman (2016),PS4,2016,Action,Square Enix,0,0.04,0,0.01,0.04
+13704,XCOM 2,PS4,2016,Strategy,Take-Two Interactive,0.01,0.02,0,0.01,0.04
+13883,Rugby Challenge 3,PS4,2016,Sports,Alternative Software,0,0.03,0,0.01,0.04
+13887,Hatsune Miku: Project Diva X,PS4,2016,Misc,Sega,0.01,0,0.02,0,0.04
+14094,Batman: A Telltale Game Series,PS4,2016,Adventure,Telltale Games,0.01,0.02,0,0.01,0.04
+14140,Resident Evil 4 HD,PS4,2016,Shooter,Capcom,0.03,0,0,0.01,0.03
+14236,NASCAR Heat Evolution,PS4,2016,Racing,Dusenberry Martin Racing,0.03,0,0,0.01,0.03
+14386,Hearts of Iron IV,PC,2016,Strategy,Paradox Interactive,0,0.03,0,0,0.03
+14430,Summon Night 6: Lost Borders,PS4,2016,Action,Namco Bandai Games,0,0,0.03,0,0.03
+14533,Need for Speed (2015),PC,2016,Racing,Electronic Arts,0,0.03,0,0,0.03
+14558,Pro Cycling Manager 2016,PC,2016,Sports,Focus Home Interactive,0,0.03,0,0,0.03
+14638,Stellaris,PC,2016,Strategy,Paradox Interactive,0,0.03,0,0,0.03
+14683,Ghostbusters (2016),PS4,2016,Action,Activision,0.02,0,0,0.01,0.03
+14758,DiRT Rally,PC,2016,Racing,Codemasters,0,0.03,0,0,0.03
+14814,Sengoku Basara: Sanada Yukimura-Den,PS4,2016,Action,Capcom,0,0,0.03,0,0.03
+14899,Psycho-Pass: Mandatory Happiness,PS4,2016,Adventure,Nippon Ichi Software,0.02,0,0,0,0.03
+14969,Bus Simulator 16,PC,2016,Simulation,Astragon,0,0.02,0,0,0.02
+15039,Tokyo Xanadu eX+,PS4,2016,Role-Playing,Nihon Falcom Corporation,0,0,0.02,0,0.02
+15085,Prison Architect,PS4,2016,Action,Introversion Software,0.01,0.01,0,0,0.02
+15153,Rocket League,PC,2016,Sports,505 Games,0.01,0.01,0,0,0.02
+15169,Aegis of Earth: Protonovus Assault,PS4,2016,Action,PQube,0.02,0,0,0,0.02
+15303,F1 2016 (Codemasters),PC,2016,Racing,Codemasters,0,0.02,0,0,0.02
+15341,Dead Rising,PS4,2016,Action,Capcom,0.01,0,0,0,0.02
+15342,Homefront: The Revolution,PC,2016,Shooter,Deep Silver,0,0.02,0,0,0.02
+15397,Anima - Gate of Memories,PS4,2016,Action,Avanquest,0,0.02,0,0,0.02
+15406,Resident Evil: Umbrella Corps,PS4,2016,Action,Capcom,0,0,0.02,0,0.02
+15412,Deus Ex: Mankind Divided,PC,2016,Role-Playing,Square Enix,0,0.02,0,0,0.02
+15418,RollerCoaster Tycoon World,PC,2016,Simulation,Atari,0,0.02,0,0,0.02
+15440,Resident Evil Zero,PC,2016,Action,Capcom,0.01,0.01,0,0,0.02
+15467,Dino Dini's Kick Off Revival,PS4,2016,Sports,Avanquest,0,0.02,0,0,0.02
+15473,Agatha Christie: The ABC Murders,PC,2016,Adventure,Microids,0,0.02,0,0,0.02
+15478,Black Rose Valkyrie,PS4,2016,Role-Playing,Idea Factory,0,0,0.02,0,0.02
+15484,Agatha Christie's The ABC Murders,PS4,2016,Adventure,Microids,0.01,0.01,0,0,0.02
+15661,Song of the Deep,PC,2016,Action,Insomniac Games,0.02,0,0,0,0.02
+15687,Winning Post 8 2016,PS4,2016,Simulation,Tecmo Koei,0,0,0.02,0,0.02
+15717,This War of Mine,PS4,2016,Action,Deep Silver,0,0.01,0,0,0.02
+15729,Revolution: 25th Anniversary Collection,PC,2016,Adventure,Koch Media,0,0.02,0,0,0.02
+15855,Assault Suit Leynos,PS4,2016,Shooter,Rising Star Games,0.01,0,0,0,0.02
+15889,Koihime Enbu,PS4,2016,Fighting,Yeti,0,0,0.02,0,0.02
+15943,Worms: WMD,PS4,2016,Action,Sold Out,0.01,0.01,0,0,0.02
+15949,Touhou Genso Rondo: Bullet Ballet,PS4,2016,Shooter,Nippon Ichi Software,0.01,0,0,0,0.02
+16022,God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4,PS4,2016,Action,Namco Bandai Games,0,0,0.01,0,0.01
+16051,God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5,PS4,2016,Misc,Namco Bandai Games,0,0,0.01,0,0.01
+16054,Battle Worlds: Kronos,PC,2016,Strategy,Nordic Games,0,0.01,0,0,0.01
+16098,Resident Evil 5 HD,PS4,2016,Action,Capcom,0.01,0,0,0,0.01
+16139,Dragon's Dogma Online: Season 2,PS4,2016,Action,Capcom,0,0,0.01,0,0.01
+16178,Republique,PS4,2016,Action,Nippon Ichi Software,0,0.01,0.01,0,0.01
+16223,Dynasty Warriors: Eiketsuden,PS4,2016,Action,Tecmo Koei,0,0,0.01,0,0.01
+16247,Valentino Rossi: The Game,PC,2016,Racing,Namco Bandai Games,0,0.01,0,0,0.01
+16263,Paragon,PS4,2016,Action,Epic Games,0.01,0,0,0,0.01
+16326,MXGP 2,PC,2016,Racing,Milestone S.r.l.,0,0.01,0,0,0.01
+16347,Cities: Skylines Snowfall,PC,2016,Simulation,Paradox Development,0,0.01,0,0,0.01
+16389,TrackMania Turbo,PC,2016,Action,Ubisoft,0,0.01,0,0,0.01
+16402,The Technomancer,PC,2016,Role-Playing,Focus Home Interactive,0,0.01,0,0,0.01
+16477,Total War Attila: Tyrants & Kings,PC,2016,Strategy,Koch Media,0,0.01,0,0,0.01
+16553,God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7,PS4,2016,Action,Namco Bandai Games,0,0,0.01,0,0.01
+16558,Codename: Panzers Complete Collection,PC,2016,Strategy,Nordic Games,0,0.01,0,0,0.01
+16573,Farming 2017 - The Simulation,PS4,2016,Simulation,UIG Entertainment,0,0.01,0,0,0.01
+14393,Phantasy Star Online 2 Episode 4: Deluxe Package,PS4,2017,Role-Playing,Sega,0,0,0.03,0,0.03
+432,LEGO Batman: The Videogame,Wii,N/A,Action,Warner Bros. Interactive Entertainment,1.86,1.02,0,0.29,3.17
+653,LEGO Indiana Jones: The Original Adventures,Wii,N/A,Action,LucasArts,1.54,0.63,0,0.22,2.39
+713,Call of Duty 3,Wii,N/A,Shooter,Activision,1.19,0.84,0,0.23,2.26
+784,Rock Band,Wii,N/A,Misc,MTV Games,1.35,0.56,0,0.2,2.11
+1128,Call of Duty: Black Ops,PC,N/A,Shooter,Activision,0.58,0.81,0,0.24,1.63
+1435,LEGO Harry Potter: Years 5-7,Wii,N/A,Action,Warner Bros. Interactive Entertainment,0.76,0.47,0,0.13,1.36
+2297,Rhythm Heaven,Wii,N/A,Misc,Unknown,0.13,0,0.77,0.01,0.9
+2778,Madden NFL 11,Wii,N/A,Sports,Unknown,0.7,0,0,0.05,0.74
+3348,The Golden Compass,Wii,N/A,Action,Sega,0.26,0.28,0,0.07,0.6
+4685,TERA,PC,N/A,Role-Playing,Unknown,0.24,0.12,0,0.05,0.41
+5242,Tomb Raider (2013),PC,N/A,Action,Square Enix,0.06,0.25,0,0.05,0.36
+>>>>>>> parent of b2859d5... Update vgsales.csv
