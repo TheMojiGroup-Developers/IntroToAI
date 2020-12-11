@@ -11,7 +11,7 @@ from sklearn import datasets
 import pandas as pd
 import numpy as np
 
-path = "C:/Users/Kevin/Documents/GitHub/IntroToAICoursework" #relative or absolute path to data
+path = path = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI" #relative or absolute path to data
 
 #***********************Training/Validation Split***************************
 
