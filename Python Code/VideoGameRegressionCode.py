@@ -6,8 +6,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 
-path = "C:/Users/Kevin/Documents/GitHub/IntroToAI" 
-#path = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI"
+#path = "C:/Users/Kevin/Documents/GitHub/IntroToAI" 
+path = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI"
 
 filename_read = os.path.join(path, "vgsales.csv")
 df = pd.read_csv(filename_read, na_values=['NA', '?'])
