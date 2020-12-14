@@ -33,7 +33,7 @@ X = df[result].values
 y = df['Global_Sales'].values
 
 #split data into testing and training
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=320, random_state=0)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=1/3, random_state=0)
 
 # build the model
 model = LinearRegression()  
@@ -69,6 +69,6 @@ def chart_regression(pred, y, sort=True):
     plt.legend()
     plt.show()
     
-chart_regression(y_pred[:100].flatten(),y_test[:100],sort=True)   
+chart_regression(y_pred[:400].flatten(),y_test[:400],sort=True)   
 
 ## RMSE is around 0.4% of the Mean value. This means that it is a relatively good score.
