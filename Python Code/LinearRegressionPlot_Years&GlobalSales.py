@@ -12,7 +12,7 @@ from sklearn import metrics
 #path = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI"
 
 data = pd.read_csv(
-    "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/vgsales.csv")
+    "/Users/Kevin/Documents/Github/IntroToAI/vgsales.csv")
 print(data.info)
 print(data.describe())
 print(data.head(100))  # Lists the first Top 100 games from dataset.
