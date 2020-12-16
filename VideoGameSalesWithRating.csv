@@ -272,7 +272,7 @@ The Sims 3,3DS,2011,Simulation,Electronic Arts,0.3,0.37,0.03,0.07,0.76,52,29
 Portal 2,PC,2011,Shooter,Valve Software,0.33,0.32,0,0.1,0.76,95,52
 Mario & Luigi: Paper Jam,3DS,2015,Role-Playing,Nintendo,0.16,0.29,0.26,0.04,0.76,76,76
 Professor Layton and the Azran Legacy,3DS,2013,Puzzle,Nintendo,0,0.48,0.25,0.03,0.75,81,58
-Nintendo Presents: New Style Boutique 2 - Fashion Forward,3DS,2015,Misc,Nintendo,0.03,0.66,0.02,0.04,0.75,,
+Nintendo Presents: New Style Boutique 2 - Fashion Forward,3DS,2015,Misc,Nintendo,0.03,0.66,0.02,0.04,0.75,78,10
 Titanfall 2,PS4,2016,Shooter,Electronic Arts,0.34,0.25,0.05,0.12,0.75,89,56
 Metal Gear Solid V: The Phantom Pain,XOne,2015,Action,Konami Digital Entertainment,0.41,0.26,0.01,0.07,0.75,95,10
 LEGO Batman 2: DC Super Heroes,3DS,2012,Action,Warner Bros. Interactive Entertainment,0.41,0.28,0,0.06,0.75,72,6
@@ -332,7 +332,7 @@ Crysis 3,PC,2013,Shooter,Electronic Arts,0.17,0.39,0,0.07,0.63,76,47
 LEGO Jurassic World,3DS,2015,Action,Warner Bros. Interactive Entertainment,0.31,0.23,0.03,0.05,0.62,70,46
 LEGO Pirates of the Caribbean: The Video Game,3DS,2011,Action,Disney Interactive Studios,0.29,0.27,0,0.06,0.62,71,16
 Mafia III,XOne,2016,Action,Take-Two Interactive,0.28,0.29,0,0.05,0.62,67,20
-Toshochu: Run for Money,3DS,2012,Adventure,Namco Bandai Games,0,0,0.62,0,0.62,,
+Toshochu: Run for Money,3DS,2012,Adventure,Namco Bandai Games,0,0,0.62,0,0.62,37,5
 Cooking Mama 4: Kitchen Magic!,3DS,2011,Simulation,505 Games,0.5,0.07,0,0.05,0.61,56,6
 Scribblenauts: Unlimited,3DS,2012,Action,Warner Bros. Interactive Entertainment,0.56,0.01,0,0.05,0.61,73,13
 Tomb Raider (2013),XOne,2014,Action,Square Enix,0.35,0.21,0,0.05,0.61,86,18
@@ -419,7 +419,7 @@ Call of Duty: Black Ops II,WiiU,2012,Shooter,Activision,0.2,0.18,0,0.03,0.41,81,
 Call of Duty: Advanced Warfare,PC,2014,Shooter,Activision,0.15,0.23,0,0.03,0.41,78,18
 Rocksmith 2014,XOne,2014,Misc,Ubisoft,0.29,0.08,0,0.04,0.41,89,7
 Duke Nukem Forever,PC,2011,Shooter,Take-Two Interactive,0.18,0.17,0,0.06,0.41,54,48
-Dragon Quest X,WiiU,2013,Role-Playing,Square Enix,0,0,0.41,0,0.41,,
+Dragon Quest X,WiiU,2013,Role-Playing,Square Enix,0,0,0.41,0,0.41,67,8
 The Wonderful 101,WiiU,2013,Action,Nintendo,0.19,0.1,0.08,0.03,0.4,78,75
 FIFA 14,PC,2013,Sports,Electronic Arts,0.01,0.36,0,0.03,0.4,87,6
 FIFA Soccer 13,PC,2012,Action,Electronic Arts,0.02,0.31,0,0.07,0.4,86,7
@@ -477,7 +477,7 @@ Disney's Planes,WiiU,2013,Simulation,Disney Interactive Studios,0.14,0.04,0,0.02
 Guitar Hero Live,WiiU,2015,Misc,Activision,0.12,0.05,0,0.02,0.19,84,4
 Injustice: Gods Among Us,WiiU,2013,Fighting,Warner Bros. Interactive Entertainment,0.09,0.08,0,0.02,0.19,82,5
 Resident Evil: Revelations,WiiU,2013,Action,Capcom,0.07,0.07,0.03,0.01,0.19,80,19
-Taiko no Tatsujin: Wii U Version!,WiiU,2013,Misc,Namco Bandai Games,0,0,0.19,0,0.19,,
+Taiko no Tatsujin: Wii U Version!,WiiU,2013,Misc,Namco Bandai Games,0,0,0.19,0,0.19,78,22
 Tekken Tag Tournament 2,WiiU,2012,Fighting,Namco Bandai Games,0.09,0.07,0.01,0.01,0.18,83,28
 Ninja Gaiden 3,WiiU,2012,Action,Nintendo,0.14,0.03,0,0.02,0.18,58,43
 Skylanders Imaginators,WiiU,2016,Platform,Activision,0.09,0.08,0,0.02,0.18,76,4
@@ -489,12 +489,12 @@ Watch Dogs,WiiU,2014,Action,Ubisoft,0.07,0.05,0,0.01,0.13,62,15
 Game Party: Champions,WiiU,2012,Action,Warner Bros. Interactive Entertainment,0.09,0.03,0,0.01,0.13,24,8
 NBA 2K13,WiiU,2012,Sports,Take-Two Interactive,0.07,0.04,0,0.01,0.13,85,17
 WipeOut 3 The Game,WiiU,2012,Action,Activision,0.11,0,0,0.01,0.13,40,1
-James Bond 007: Legends,WiiU,2012,Shooter,Activision,0.06,0.05,0,0.01,0.12,,
+James Bond 007: Legends,WiiU,2012,Shooter,Activision,0.06,0.05,0,0.01,0.12,50,27
 Rodea the Sky Soldier,WiiU,2015,Action,Nippon Ichi Software,0.08,0.02,0.01,0.01,0.12,45,31
 Marvel Avengers: Battle for Earth,WiiU,2012,Action,Ubisoft,0.06,0.04,0,0.01,0.12,50,10
 Tom Clancy's Splinter Cell: Blacklist,WiiU,2013,Action,Ubisoft,0.04,0.07,0,0.01,0.12,75,5
 LEGO Batman 2: DC Super Heroes,WiiU,2013,Action,Warner Bros. Interactive Entertainment,0.04,0.06,0,0.01,0.12,77,7
-Taiko Drum Master: Tokumori!,WiiU,2014,Misc,Namco Bandai Games,0,0,0.11,0,0.11,,
+Taiko Drum Master: Tokumori!,WiiU,2014,Misc,Namco Bandai Games,0,0,0.11,0,0.11,70,13
 The Walking Dead: Survival Instinct,WiiU,2013,Shooter,Activision,0.08,0.03,0,0.01,0.11,38,13
 Fatal Frame: Maiden of Black Water,WiiU,2014,Action,Nintendo,0,0.03,0.08,0,0.11,67,58
 Deus Ex: Human Revolution,WiiU,2013,Shooter,Square Enix,0.05,0.05,0,0.01,0.11,90,52
