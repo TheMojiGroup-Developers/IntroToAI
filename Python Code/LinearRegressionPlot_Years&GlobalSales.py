@@ -10,9 +10,10 @@ from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 
 #path = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI"
+#path = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/VideoGameSalesWithRating.csv"
 
 data = pd.read_csv(
-    "/Users/Kevin/Documents/Github/IntroToAI/vgsales.csv")
+    "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/VideoGameSalesWithRating.csv")
 print(data.info)
 print(data.describe())
 print(data.head(100))  # Lists the first Top 100 games from dataset.
@@ -21,7 +22,7 @@ print(data.head(100))  # Lists the last Top 100 games from the dataset.
 # Plotting Global Sales for Each Platform (Top 100)
 
 # Plotting and Visualising the  Data:
-plt.scatter(data.Year, data.Global_Sales)
+plt.scatter(data.Year_of_Release, data.Global_Sales)
 plt.xlabel("Year")
 plt.ylabel("Global_Sales")
 plt.show()
