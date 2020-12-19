@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 # set your path
-path = "."
+path = "C:/Users/Kevin/Documents/GitHub/IntroToAI"
 
 # read in the data as csv
 filename_read = os.path.join(path, "VideoGameSalesWithRating.csv")
