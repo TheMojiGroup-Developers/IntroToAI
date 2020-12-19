@@ -18,7 +18,15 @@ print(data.describe())
 print(data.head(100))  # Lists the first Top 100 games from dataset.
 print(data.head(100))  # Lists the last Top 100 games from the dataset.
 
-platf_sales=data.groupby('Platform')['Global_Sales'].sum().sort_values(ascending=False).reset_index()
+#Bar chart representing global sales against different platforms in our data
+platform_globalsales = data.groupby('Platform')['Global_Sales'].sum().sort_values(ascending=False).reset_index()
+platf_sales_top10=platform_globalsales .iloc[0:10,0:10]
+ax=platf_sales_top10.plot(x='Platform', y='Global_Sales', kind='bar', figsize=(23, 5), rot=360)
+ax.get_legend().remove()
+plt.title('Sales by platform', size=14)
+plt.xlabel('Platform')
+plt.ylabel('Worldwide sales, M copies')
+plt.show()
 
 #Converts categories columns into numeric values to be used for pearson correlation
 cols = ['Platform', 'Genre', 'Publisher']
@@ -38,20 +46,18 @@ corr, _ = pearsonr(data.Global_Sales, data.Critic_Score)
 print('Global Sales x Critic Score correlation: %.3f' % corr) 
 corr, _ = pearsonr(data.Global_Sales, data.Year_of_Release)
 print('Global Sales x Year_of_Release: %.3f' % corr) 
-corr, _ = pearsonr(data.Global_Sales, data.Platform)
-print('Global Sales x Platform: %.3f' % corr) 
+
+#We disregard this as different platforms released at different times. 
+#Platform isn't constantly changing
+#corr, _ = pearsonr(data.Global_Sales, data.Platform)
+#print('Global Sales x Platform: %.3f' % corr) 
+
 corr, _ = pearsonr(data.Global_Sales, data.Genre)
 print('Global Sales x Genre: %.3f' % corr) 
 corr, _ = pearsonr(data.Global_Sales, data.Publisher)
 print('Global Sales x Publisher: %.3f' % corr) 
 
-platf_sales_top10=platf_sales.iloc[0:10,0:10]
-ax=platf_sales_top10.plot(x='Platform', y='Global_Sales', kind='bar', figsize=(23, 5), rot=360)
-ax.get_legend().remove()
-plt.title('Sales by platform', size=14)
-plt.xlabel('Platform')
-plt.ylabel('Worldwide sales, M copies')
-plt.show()
+
 
 #Linear regression plot for Critic Score against Global Sales with best fitted line.
 x=data.Global_Sales.values.reshape(-1,1)
