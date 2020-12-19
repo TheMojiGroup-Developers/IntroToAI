@@ -46,18 +46,15 @@ corr, _ = pearsonr(data.Global_Sales, data.Critic_Score)
 print('Global Sales x Critic Score correlation: %.3f' % corr) 
 corr, _ = pearsonr(data.Global_Sales, data.Year_of_Release)
 print('Global Sales x Year_of_Release: %.3f' % corr) 
-
-#We disregard this as different platforms released at different times. 
-#Platform isn't constantly changing
-#corr, _ = pearsonr(data.Global_Sales, data.Platform)
-#print('Global Sales x Platform: %.3f' % corr) 
-
 corr, _ = pearsonr(data.Global_Sales, data.Genre)
 print('Global Sales x Genre: %.3f' % corr) 
 corr, _ = pearsonr(data.Global_Sales, data.Publisher)
 print('Global Sales x Publisher: %.3f' % corr) 
 
-
+#We disregard this as different platforms released at different times. 
+#Platform isn't constantly changing
+#corr, _ = pearsonr(data.Global_Sales, data.Platform)
+#print('Global Sales x Platform: %.3f' % corr) 
 
 #Linear regression plot for Critic Score against Global Sales with best fitted line.
 x=data.Global_Sales.values.reshape(-1,1)
