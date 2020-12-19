@@ -14,7 +14,13 @@ sc_y = StandardScaler()
 X = sc_X.fit_transform(X)
 y = sc_y.fit_transform(y)
 
-regressor = SVR(kernel='')
-regressor.fit(X, y)
+# Not sure what kernel to use. Either "poly", "rbf", or "linear"
+regressor = SVR(kernel='linear')
+regressor.fit(X, y.ravel())
 
-# hello
+plt.scatter(X, y, color='magenta')
+plt.plot(X, regressor.predict(X), color='green')
+plt.title('Support Vector Regression Model')
+plt.xlabel('Critic Score')
+plt.ylabel('Global Sale')
+plt.show()
