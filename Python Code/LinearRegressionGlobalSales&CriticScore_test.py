@@ -15,7 +15,7 @@ sns.set()
 path_kevin = "C:/Users/Kevin/Documents/GitHub/IntroToAI"
 path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
 # read in the data as csv
-filename_read = os.path.join(path_saffan, "VideoGameSalesWithRating.csv")
+filename_read = os.path.join(path_saffan, "LinearRegressionGlobalSales&CriticScore.csv")
 dataset = pd.read_csv(filename_read)
 
 plt.title('Linear Regression: Global Sales & Critic Score') 
