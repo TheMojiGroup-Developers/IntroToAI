@@ -57,10 +57,10 @@ plt.scatter(x, y, color = 'blue')
   
 # plot predicted data 
 plt.plot(X_grid, regressor.predict(X_grid),  
-         color = 'green')  
+         color = 'red')  
 plt.title('Random Forest Regression: Global Sales & Critic Score') 
-plt.xlabel('Global Sales') 
-plt.ylabel('Critic Score') 
+plt.xlabel('Critic Score') 
+plt.ylabel('Global Sales') 
 plt.show()
 
 # print(dataset.shape)
