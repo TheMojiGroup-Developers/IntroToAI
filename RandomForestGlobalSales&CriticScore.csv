@@ -1,415 +1,83 @@
 ,Name,Global_Sales,Critic_Score
-0,Call of Duty: Black Ops 3,14.63,81
-1,Pokemon X/Pokemon Y,14.6,87
-2,Mario Kart 7,12.66,85
-3,Grand Theft Auto V,12.61,97
-4,Pokemon Omega Ruby/Pokemon Alpha Sapphire,11.68,83
-5,Super Mario 3D Land,10.81,90
-6,New Super Mario Bros. 2,9.9,78
-7,Animal Crossing: New Leaf,9.16,88
-8,FIFA 16,8.57,82
-9,Star Wars Battlefront (2015),7.98,73
-10,Call of Duty: Advanced Warfare,7.66,83
-11,FIFA 17,7.59,85
-12,Super Smash Bros. for Wii U and 3DS,7.55,92
-13,Call of Duty: Black Ops 3,7.39,81
-14,Fallout 4,7.16,87
-15,Pokemon Sun/Moon,7.14,87
-16,Mario Kart 8,7.09,88
-17,FIFA 15,6.08,82
-18,Destiny,5.64,76
-19,Grand Theft Auto V,5.48,97
-20,Uncharted 4: A Thief's End,5.38,93
-21,Call of Duty: Advanced Warfare,5.27,81
-22,Tomodachi Life,5.23,71
-23,New Super Mario Bros. U,5.22,84
-24,Diablo III,5.14,88
-25,Super Smash Bros. for Wii U and 3DS,4.87,92
-26,StarCraft II: Wings of Liberty,4.84,93
-27,The Last of Us,4.71,95
-28,Uncharted: The Nathan Drake Collection,4.62,86
-29,Luigi's Mansion: Dark Moon,4.59,86
-30,Halo 5: Guardians,4.48,84
-31,Call of Duty: Infinite Warfare,4.46,77
-32,Splatoon,4.43,81
-33,Nintendo Land,4.42,77
-34,The Legend of Zelda: Ocarina of Time,4.33,94
-35,Super Mario 3D World,4.32,93
-36,Minecraft,4.32,89
-37,Fallout 4,4.22,88
-38,Battlefield 1,4.08,88
-39,Watch Dogs,4.05,80
-40,Far Cry 4,4.04,85
-41,The Witcher 3: Wild Hunt,3.97,92
-42,Assassin's Creed: Unity,3.96,70
-43,Batman: Arkham Knight,3.95,87
-44,Monster Hunter 4 Ultimate,3.89,86
-45,The Elder Scrolls V: Skyrim,3.88,94
-46,NBA 2K16,3.88,87
-47,Nintendogs + cats,3.85,71
-48,Call of Duty: Ghosts,3.83,78
-49,Tom Clancy's The Division,3.8,80
-50,Star Wars Battlefront (2015),3.66,75
-51,Battlefield 4,3.59,85
-52,Assassin's Creed: Unity,3.5,72
-53,Monster Hunter 4,3.44,86
-54,Metal Gear Solid V: The Phantom Pain,3.41,93
-55,Assassin's Creed Syndicate,3.39,76
-56,Destiny,3.37,75
-57,Monster Hunter X,3.32,80
-58,Yokai Watch 2 Ganso/Honke,3.28,72
-59,Gears of War: Ultimate Edition,3.28,82
-60,FIFA 16,3.25,84
-61,Madden NFL 16,3.24,83
-62,Halo: The Master Chief Collection,3.23,85
-63,Super Mario Maker,3.21,88
-64,The Legend of Zelda: A Link Between Worlds,3.1,91
-65,Animal Crossing: Happy Home Designer,3.05,66
-66,The Sims 4,3.05,70
-67,FIFA 14,3.01,87
-68,Star Wars: The Old Republic,2.96,85
-69,Middle-Earth: Shadow of Mordor,2.96,84
-70,Titanfall,2.95,86
-71,Call of Duty: Ghosts,2.92,78
-72,Assassin's Creed IV: Black Flag,2.85,83
-73,inFAMOUS: Second Son,2.79,80
-74,Monster Hunter Tri,2.79,79
-75,Battlefield 3,2.78,89
-76,Mortal Kombat X,2.78,83
-77,Minecraft,2.76,88
-78,Killzone: Shadow Fall,2.69,73
-79,Yokai Watch 2 Shinuchi,2.68,70
-80,FIFA 17,2.65,84
-81,Bloodborne,2.48,92
-82,NBA 2K15,2.45,83
-83,Need for Speed (2015),2.43,66
-84,Call of Duty: Infinite Warfare,2.42,78
-85,Madden NFL 16,2.42,84
-86,The Legend of Zelda: Majora's Mask 3D,2.34,89
-87,NBA 2K16,2.34,86
-88,Guild Wars 2,2.31,90
-89,Paper Mario: Sticker Star,2.3,75
-90,Yokai Watch Busters,2.29,67
-91,Far Cry: Primal,2.26,76
-92,Battlefield 1,2.25,87
-93,New Super Luigi U,2.24,77
-94,Assassin's Creed IV: Black Flag,2.23,76
-95,Tom Clancy's Rainbow Six: Siege,2.21,73
-96,Forza Motorsport 5,2.2,79
-97,Madden NFL 15,2.19,81
-98,FIFA 15,2.18,82
-99,Tom Clancy's The Division,2.16,80
-100,Overwatch,2.14,90
-101,Battlefield: Hardline,2.1,73
-102,Dying Light,2.09,74
-103,Yokai Watch,2.09,76
-104,World of Warcraft: Cataclysm,2.08,90
-105,Mario & Luigi: Dream Team,2.08,81
-106,DriveClub,2.07,71
-107,Battlefield 4,2.02,81
-108,Fire Emblem: Awakening,2.01,92
-109,Dragon Age: Inquisition,2.01,89
-110,Need for Speed Rivals,1.98,80
-111,Destiny: The Taken King,1.93,86
-112,Mario Party: Island Tour,1.92,57
-113,LittleBigPlanet 3,1.91,79
-114,Donkey Kong Country Returns,1.89,83
-115,NBA 2K17,1.88,88
-116,Just Cause 3,1.86,73
-117,Kirby: Triple Deluxe,1.83,80
-118,Diablo III,1.82,90
-119,World of Warcraft: Mists of Pandaria,1.82,82
-120,Mafia III,1.81,68
-121,Forza Motorsport 6,1.8,87
-122,The Evil Within,1.79,75
-123,The Legend of Zelda: The Wind Waker,1.79,90
-124,Professor Layton and the Mask of Miracle,1.79,82
-125,Madden NFL 17,1.75,82
-126,The Elder Scrolls Online,1.75,74
-127,Wii Party U,1.75,65
-128,The Order: 1886,1.74,63
-129,Knack,1.73,54
-130,The Crew,1.72,61
-131,NBA 2K15,1.72,82
-132,Call of Duty: Modern Warfare 3,1.72,78
-133,The Sims 3: Late Night Expansion Pack,1.7,74
-134,No Man's Sky,1.7,71
-135,Sid Meier's Civilization V,1.68,90
-136, Fire Emblem Fates,1.68,87
-137,StarCraft II: Heart of the Swarm,1.67,86
-138,Until Dawn,1.66,79
-139,Dark Souls III,1.65,89
-140,Far Cry 4,1.63,82
-141,LEGO Marvel Super Heroes,1.62,83
-142,Kingdom Hearts 3D: Dream Drop Distance,1.58,75
-143,Mario Party 10,1.58,66
-144,Dead Rising 3,1.57,78
-145,Watch Dogs,1.57,78
-146,Madden NFL 15,1.57,80
-147,Wolfenstein: The New Order,1.55,79
-148,Ratchet & Clank (2016),1.54,85
-149,Call of Duty: Black Ops II,1.53,74
-150,Donkey Kong Country: Tropical Freeze,1.52,83
-151,Final Fantasy XIV: A Realm Reborn,1.52,86
-152,Puzzle & Dragons,1.51,73
-153,Football Manager 2012,1.51,84
-154,Batman: Arkham Knight,1.49,85
-155,Doom (2016),1.49,85
-156,LEGO City Undercover,1.47,62
-157,Dragon Quest VII: Warriors of Eden,1.46,81
-158,NBA 2K14,1.45,85
-159,Anno 2070,1.43,83
-160,SimCity (2013),1.42,64
-161,Tomb Raider (2013),1.4,87
-162,Forza Horizon 2,1.4,86
-163,Yoshi's New Island,1.38,64
-164,Bravely Default: Flying Fairy,1.38,85
-165,Ryse: Son of Rome,1.38,60
-166,Mortal Kombat X,1.38,86
-167,Rise of the Tomb Raider,1.38,86
-168,Middle-Earth: Shadow of Mordor,1.35,87
-169,Battlefield 4,1.35,81
-170,Gears of War 4,1.35,84
-171,Tom Clancy's Rainbow Six: Siege,1.34,74
-172,Yokai Watch 3,1.33,80
-173,The Elder Scrolls V: Skyrim,1.33,81
-174,The Witcher 3: Wild Hunt,1.31,91
-175,Yoshi's Woolly World,1.3,78
-176,Assassin's Creed Syndicate,1.3,78
-177,Dying Light,1.29,74
-178,Fallout 4,1.29,84
-179,The Elder Scrolls Online,1.28,77
-180,Kid Icarus: Uprising,1.27,83
-181,Pokemon Mystery Dungeon: Gates to Infinity,1.27,59
-182,Metal Gear Solid V: Ground Zeroes,1.27,75
-183,Football Manager 2011,1.26,85
-184,Pokemon Super Mystery Dungeon,1.25,69
-185,Madden NFL 17,1.23,83
-186,Hyrule Warriors,1.23,76
-187,Super Street Fighter IV: 3D Edition,1.21,85
-188,WWE 2K16,1.21,73
-189,Battlefield: Hardline,1.21,71
-190,Farming Simulator 2015,1.2,54
-191,Captain Toad: Treasure Tracker,1.19,81
-192,Destiny: The Taken King,1.19,89
-193,Mario & Sonic at the London 2012 Olympic Games,1.18,66
-194,Mad Max (2015),1.17,69
-195,Grand Theft Auto V,1.17,96
-196,Fallout: New Vegas,1.17,84
-197,FIFA 14,1.16,88
-198,Football Manager 2013,1.15,86
-199,WWE 2K15,1.15,62
-200,Pokemon Rumble Blast,1.14,56
-201,Sunset Overdrive,1.14,81
-202,Naruto Shippuden: Ultimate Ninja Storm 4,1.14,79
-203,Watch Dogs 2,1.13,83
-204,LEGO Star Wars III: The Clone Wars,1.13,67
-205,Alien: Isolation,1.13,79
-206,Fantasy Life,1.13,73
-207,The Legend of Zelda: Tri Force Heroes,1.12,73
-208,Pikmin 3,1.11,87
-209,Dragon Ball: XenoVerse,1.11,69
-210,LEGO City Undercover,1.1,80
-211,Project CARS,1.09,83
-212,Forza Horizon 3,1.08,91
-213,Overwatch,1.06,91
-214,LEGO Marvel Super Heroes,1.06,83
-215,EA Sports UFC,1.05,70
-216,The Legend of Zelda: Twilight Princess HD,1.03,86
-217,NBA 2K17,1.02,90
-218,Sonic Generations,1.02,66
-219,Rayman Legends,1.01,90
-220,ZombiU,1.01,77
-221,Pokken Tournament,1.01,76
-222,Final Fantasy Type-0,0.98,72
-223,Mass Effect 3,0.97,89
-224,Far Cry 3,0.96,88
-225,Evolve,0.96,76
-226,Farming Simulator 2013,0.96,65
-227,Dragon Quest Monsters: Terry's Wonderland 3D,0.96,75
-228,The Witcher 2: Assassins of Kings,0.96,88
-229,Mario Tennis Open,0.95,69
-230,PilotWings Resort,0.95,71
-231,Star Fox 64 3D,0.94,81
-232,Rise of the Tomb Raider,0.94,88
-233,EA Sports UFC 2,0.93,79
-234,Dragon Age: Inquisition,0.93,85
-235,Kirby: Planet Robobot,0.93,81
-236,Lego Batman 3: Beyond Gotham,0.93,73
-237,Assassin's Creed III,0.93,80
-238,Borderlands 2,0.93,89
-239,Disney Magical World,0.92,71
-240,MLB 15: The Show,0.92,80
-241,Harvest Moon 3D: A New Beginning,0.91,74
-242,Injustice: Gods Among Us,0.91,80
-243,NBA 2K14,0.91,86
-244,Street Fighter V,0.9,77
-245,Just Cause 3,0.9,71
-246,LEGO Jurassic World,0.9,70
-247,The Elder Scrolls Online,0.9,71
-248,Madden NFL 25,0.9,74
-249,LEGO Marvel Super Heroes,0.9,61
-250,MLB 16: The Show,0.89,85
-251,Far Cry: Primal,0.88,77
-252,Resident Evil: Revelations,0.88,82
-253,Borderlands: The Handsome Collection,0.88,82
-254,Monster Strike 3DS,0.87,79
-255,Dragon Quest VIII: Journey of the Cursed King,0.86,85
-256,Guitar Hero Live,0.86,80
-257,Wii Fit U,0.85,72
-258,Xenoblade Chronicles X,0.84,84
-259,Tales of the Abyss,0.83,75
-260,Thief (2014),0.82,67
-261,Madden NFL 25,0.81,73
-262,Professor Layton vs Phoenix Wright: Ace Attorney,0.8,79
-263,Dragon Quest Monsters 2,0.79,77
-264,Pro Evolution Soccer 2016,0.79,87
-265,Rare Replay,0.79,84
-266,Mario & Sonic at the Sochi 2014 Olympic Winter Games,0.78,55
-267,Bayonetta 2,0.76,91
-268,Doom (2016),0.76,85
-269,The Sims 3,0.76,52
-270,Portal 2,0.76,95
-271,Mario & Luigi: Paper Jam,0.76,76
-272,Professor Layton and the Azran Legacy,0.75,81
-273,Nintendo Presents: New Style Boutique 2 - Fashion Forward,0.75,78
-274,Titanfall 2,0.75,89
-275,Metal Gear Solid V: The Phantom Pain,0.75,95
-276,LEGO Batman 2: DC Super Heroes,0.75,72
-277,Pro Evolution Soccer 2015,0.75,82
-278,Final Fantasy XIV: A Realm Reborn,0.75,86
-279,Rhythm Heaven: The Best+,0.74,83
-280,Assassin's Creed: Revelations,0.74,80
-281,Final Fantasy X/X-2 HD Remaster,0.74,85
-282,Dragon Quest Heroes: The World's Tree Woe and the Blight Below,0.74,77
-283,The Elder Scrolls V: Skyrim,0.74,82
-284,Crysis 2,0.74,86
-285,LEGO Marvel Super Heroes,0.74,82
-286,Dragon Age: Inquisition,0.73,85
-287,Style Savvy: Trendsetters,0.73,76
-288,LEGO Marvel's Avengers,0.73,71
-289,Just Dance 2015,0.73,75
-290,LEGO Dimensions,0.73,80
-291,Total War: Rome II,0.72,76
-292,Persona Q: Shadow of the Labyrinth,0.72,83
-293,The Witcher 3: Wild Hunt,0.72,93
-294,Battlefield: Bad Company 2,0.72,87
-295,XCOM: Enemy Unknown,0.71,89
-296,Skylanders: Trap Team,0.7,86
-297,Call of Duty: Ghosts,0.7,68
-298,Monster Hunter Tri,0.69,84
-299,The LEGO Movie Videogame,0.69,71
-300,Need for Speed (2015),0.69,66
-301,Plants vs. Zombies: Garden Warfare,0.69,76
-302,Need for Speed Rivals,0.69,75
-303,The Sims: Medieval,0.69,77
-304,Minecraft,0.68,77
-305,Wolfenstein: The New Order,0.68,79
-306,RIFT,0.67,84
-307,The Evil Within,0.67,79
-308,The Sims 3: High-End Loft Stuff,0.66,63
-309,Diablo III,0.66,88
-310,Napoleon: Total War,0.66,81
-311,Rayman Legends,0.66,92
-312,BioShock Infinite,0.66,94
-313,LEGO Jurassic World,0.65,70
-314,Rocksmith 2014,0.65,89
-315,Disney Infinity 2.0: Marvel Super Heroes,0.65,74
-316,Farming Simulator 17,0.65,64
-317,Assassin's Creed IV: Black Flag,0.64,84
-318,The LEGO Movie Videogame,0.64,68
-319,Rayman 3D,0.64,61
-320,Football Manager 2014,0.64,85
-321,The Crew,0.64,64
-322,Evolve,0.64,74
-323,Dragon Quest Monsters Joker 3,0.63,77
-324,Dragon Age II,0.63,82
-325,Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb,0.63,70
-326,Far Cry 4,0.63,80
-327,The Sims 3: Generations,0.63,70
-328,Angry Birds Trilogy,0.63,62
-329,Crysis 3,0.63,76
-330,LEGO Jurassic World,0.62,70
-331,LEGO Pirates of the Caribbean: The Video Game,0.62,71
-332,Mafia III,0.62,67
-333,Toshochu: Run for Money,0.62,37
-334,Cooking Mama 4: Kitchen Magic!,0.61,56
-335,Scribblenauts: Unlimited,0.61,73
-336,Tomb Raider (2013),0.61,86
-337,Kinect Sports Rivals,0.6,60
-338,Disney Infinity,0.6,71
-339, Frozen: Olaf's Quest,0.6,52
-340,Just Dance 2014,0.6,72
-341,Total War: Shogun 2,0.6,90
-342,WWE 2K16,0.59,72
-343,Assassin's Creed: Brotherhood,0.59,88
-344,Deus Ex: Human Revolution,0.58,90
-345,Skylanders SWAP Force,0.58,89
-346,Shin Megami Tensei IV,0.58,83
-347,Skylanders: Spyro's Adventure,0.57,82
-348,Titanfall 2,0.57,87
-349,WWE 2K15,0.57,56
-350,Just Dance 2016,0.57,73
-351,Rune Factory 4,0.57,78
-352,Xenoblade Chronicles,0.56,86
-353,Titanfall,0.56,86
-354,Minecraft: Story Mode,0.56,77
-355,Yokai Sangokushi,0.56,76
-356,Quantum Break,0.56,77
-357,Guitar Hero Live,0.55,81
-358,Assassin's Creed: Unity,0.55,70
-359,Assassin's Creed II,0.55,86
-360,Star Wars Battlefront (2015),0.55,73
-361,Final Fantasy Explorers,0.54,69
-362,Inazuma Eleven GO,0.53,75
-363,LEGO Dimensions,0.53,62
-364,Just Dance 2015,0.53,70
-365,The LEGO Movie Videogame,0.53,69
-366,Overwatch,0.53,91
-367,Mario & Sonic at the Rio 2016 Olympic Games,0.53,60
-368,StarCraft II: Legacy of the Void,0.53,88
-369,Batman: Arkham City,0.53,91
-370,LEGO Jurassic World,0.52,71
-371,Kirby and the Rainbow Curse,0.52,73
-372,Sonic & All-Stars Racing Transformed,0.51,78
-373,Alien: Isolation,0.51,78
-374,Dishonored,0.51,91
-375,Theatrhythm: Final Fantasy,0.5,78
-376,Ridge Racer 3D,0.49,75
-377,Super Monkey Ball 3D,0.49,55
-378,Sonic Lost World,0.49,59
-379,Resident Evil: The Mercenaries 3D,0.49,65
-380,Epic Mickey: Power of Illusion,0.49,63
-381,Pokemon Art Academy ,0.49,76
-382,Medal of Honor,0.49,72
-383,Asphalt 3D,0.49,43
-384,Steel Diver,0.49,58
-385,Bravely Second: End Layer,0.49,81
-386,Puzzle & Dragons Z + Super Mario Bros. Edition,0.48,73
-387,Mad Max (2015),0.48,72
-388,Skylanders: SuperChargers,0.48,87
-389,Plants vs. Zombies: Garden Warfare 2,0.48,80
-390,NHL 16,0.48,80
-391,Rock Band 4,0.47,79
-392,World of Warcraft: Warlords of Draenor,0.47,87
-393,FIFA Soccer 13,0.47,69
-394,FIFA 12,0.47,89
-395,EA Sports UFC,0.47,70
-396,Football Manager 2015,0.46,80
-397,The Sims 3: Ambitions,0.46,74
-398,Thief (2014),0.46,67
-399,Disney Infinity 3.0,0.46,80
-400,The Sims 3: Outdoor Living Stuff,0.46,53
-401,Just Dance 2014,0.45,71
-402,Lego Batman 3: Beyond Gotham,0.45,70
-403,Wolfenstein: The New Order,0.45,81
-404,Watch Dogs,0.45,77
-405,Mario Tennis Ultra Smash,0.44,58
-406,Disney Infinity 2.0: Marvel Super Heroes,0.44,74
-407,Borderlands: The Handsome Collection,0.43,80
-408,Lego Batman 3: Beyond Gotham,0.43,74
-409,Max Payne 3,0.43,87
-410,Paper Mario: Color Splash,0.42,75
+499,Scribblenauts Unmasked: A DC Comics Adventure,0.1,71
+495,Taiko Drum Master: Tokumori!,0.11,70
+496,The Walking Dead: Survival Instinct,0.11,38
+497,Fatal Frame: Maiden of Black Water,0.11,67
+498,Deus Ex: Human Revolution,0.11,90
+490,James Bond 007: Legends,0.12,50
+491,Rodea the Sky Soldier,0.12,45
+492,Marvel Avengers: Battle for Earth,0.12,50
+493,Tom Clancy's Splinter Cell: Blacklist,0.12,75
+494,LEGO Batman 2: DC Super Heroes,0.12,77
+484,Your Shape: Fitness Evolved 2013,0.13,76
+485,Transformers: Prime,0.13,56
+486,Watch Dogs,0.13,62
+487,Game Party: Champions,0.13,24
+488,NBA 2K13,0.13,85
+489,WipeOut 3 The Game,0.13,40
+482,Darksiders II,0.15,85
+483,Lego Star Wars: The Force Awakens,0.15,74
+479,Tekken Tag Tournament 2,0.18,83
+480,Ninja Gaiden 3,0.18,58
+481,Skylanders Imaginators,0.18,76
+475,Guitar Hero Live,0.19,84
+476,Injustice: Gods Among Us,0.19,82
+477,Resident Evil: Revelations,0.19,80
+478,Taiko no Tatsujin: Wii U Version!,0.19,78
+474,Disney's Planes,0.2,51
+473,LEGO The Hobbit,0.22,72
+470,Game & Wario,0.23,81
+471,Epic Mickey 2: The Power of Two,0.23,57
+472,Madden NFL 13,0.23,75
+469,LEGO Marvel's Avengers,0.24,69
+468,Shin Megami Tensei x Fire Emblem,0.25,81
+465,Need for Speed: Most Wanted,0.27,82
+466,Sing Party,0.27,60
+467,Mass Effect 3,0.27,94
+464,NES Remix,0.28,71
+462,Borderlands: The Pre-Sequel,0.29,75
+463,Assassin's Creed IV: Black Flag,0.29,86
+461,Kingdoms of Amalur: Reckoning,0.3,81
+457,Batman: Arkham Origins,0.31,74
+458,Batman: Arkham Origins,0.31,68
+459,Sonic Boom: Rise of Lyric,0.31,32
+460,The Settlers 7: Paths to a Kingdom,0.31,79
+453,Might & Magic Heroes VI,0.32,67
+454,Dead Space 2,0.32,87
+455,World of Warcraft: Legion,0.32,88
+456,Fable III,0.32,75
+452,Medal of Honor: Warfighter,0.33,55
+448,Call of Duty: Ghosts,0.34,69
+449,Mario & Sonic at the Rio 2016 Olympic Games,0.34,65
+450,Company of Heroes 2,0.34,80
+451,The Sims 3: Town Life Stuff,0.34,60
+444,Middle-Earth: Shadow of Mordor,0.35,84
+445,Assassin's Creed III,0.35,85
+446,Football Manager 2016,0.35,81
+447,LEGO Marvel's Avengers,0.35,71
+437,Batman: Arkham City,0.36,85
+438,Need for Speed: The Run,0.36,69
+439,Sid Meier's Civilization: Beyond Earth,0.36,81
+440,Star Fox: Zero,0.36,69
+441,Zoo Tycoon (2013),0.36,68
+442,Watch Dogs 2,0.36,83
+443,ESPN: Sports Connection,0.36,31
+431,Skylanders Giants,0.37,80
+432,Just Dance 4,0.37,66
+433,Need for Speed: Hot Pursuit,0.37,86
+434,Rage,0.37,79
+435,Skylanders: Trap Team,0.37,78
+436,Scribblenauts: Unlimited,0.37,73
+428,Battlefield 1,0.38,88
+429,Saints Row: The Third,0.38,84
+430,Wii Sports Club,0.38,68
+425,Mass Effect 2,0.39,94
+426,Dark Souls III,0.39,87
+427,Sonic Lost World,0.39,63
+421,The Wonderful 101,0.4,78
+422,FIFA 14,0.4,87
+423,FIFA Soccer 13,0.4,86
+424,Mafia II,0.4,77
 411,Animal Crossing: Amiibo Festival,0.41,46
 412,EA Sports UFC 2,0.41,76
 413,LEGO Dimensions,0.41,80
@@ -420,82 +88,414 @@
 418,Rocksmith 2014,0.41,89
 419,Duke Nukem Forever,0.41,54
 420,Dragon Quest X,0.41,67
-421,The Wonderful 101,0.4,78
-422,FIFA 14,0.4,87
-423,FIFA Soccer 13,0.4,86
-424,Mafia II,0.4,77
-425,Mass Effect 2,0.39,94
-426,Dark Souls III,0.39,87
-427,Sonic Lost World,0.39,63
-428,Battlefield 1,0.38,88
-429,Saints Row: The Third,0.38,84
-430,Wii Sports Club,0.38,68
-431,Skylanders Giants,0.37,80
-432,Just Dance 4,0.37,66
-433,Need for Speed: Hot Pursuit,0.37,86
-434,Rage,0.37,79
-435,Skylanders: Trap Team,0.37,78
-436,Scribblenauts: Unlimited,0.37,73
-437,Batman: Arkham City,0.36,85
-438,Need for Speed: The Run,0.36,69
-439,Sid Meier's Civilization: Beyond Earth,0.36,81
-440,Star Fox: Zero,0.36,69
-441,Zoo Tycoon (2013),0.36,68
-442,Watch Dogs 2,0.36,83
-443,ESPN: Sports Connection,0.36,31
-444,Middle-Earth: Shadow of Mordor,0.35,84
-445,Assassin's Creed III,0.35,85
-446,Football Manager 2016,0.35,81
-447,LEGO Marvel's Avengers,0.35,71
-448,Call of Duty: Ghosts,0.34,69
-449,Mario & Sonic at the Rio 2016 Olympic Games,0.34,65
-450,Company of Heroes 2,0.34,80
-451,The Sims 3: Town Life Stuff,0.34,60
-452,Medal of Honor: Warfighter,0.33,55
-453,Might & Magic Heroes VI,0.32,67
-454,Dead Space 2,0.32,87
-455,World of Warcraft: Legion,0.32,88
-456,Fable III,0.32,75
-457,Batman: Arkham Origins,0.31,74
-458,Batman: Arkham Origins,0.31,68
-459,Sonic Boom: Rise of Lyric,0.31,32
-460,The Settlers 7: Paths to a Kingdom,0.31,79
-461,Kingdoms of Amalur: Reckoning,0.3,81
-462,Borderlands: The Pre-Sequel,0.29,75
-463,Assassin's Creed IV: Black Flag,0.29,86
-464,NES Remix,0.28,71
-465,Need for Speed: Most Wanted,0.27,82
-466,Sing Party,0.27,60
-467,Mass Effect 3,0.27,94
-468,Shin Megami Tensei x Fire Emblem,0.25,81
-469,LEGO Marvel's Avengers,0.24,69
-470,Game & Wario,0.23,81
-471,Epic Mickey 2: The Power of Two,0.23,57
-472,Madden NFL 13,0.23,75
-473,LEGO The Hobbit,0.22,72
-474,Disney's Planes,0.2,51
-475,Guitar Hero Live,0.19,84
-476,Injustice: Gods Among Us,0.19,82
-477,Resident Evil: Revelations,0.19,80
-478,Taiko no Tatsujin: Wii U Version!,0.19,78
-479,Tekken Tag Tournament 2,0.18,83
-480,Ninja Gaiden 3,0.18,58
-481,Skylanders Imaginators,0.18,76
-482,Darksiders II,0.15,85
-483,Lego Star Wars: The Force Awakens,0.15,74
-484,Your Shape: Fitness Evolved 2013,0.13,76
-485,Transformers: Prime,0.13,56
-486,Watch Dogs,0.13,62
-487,Game Party: Champions,0.13,24
-488,NBA 2K13,0.13,85
-489,WipeOut 3 The Game,0.13,40
-490,James Bond 007: Legends,0.12,50
-491,Rodea the Sky Soldier,0.12,45
-492,Marvel Avengers: Battle for Earth,0.12,50
-493,Tom Clancy's Splinter Cell: Blacklist,0.12,75
-494,LEGO Batman 2: DC Super Heroes,0.12,77
-495,Taiko Drum Master: Tokumori!,0.11,70
-496,The Walking Dead: Survival Instinct,0.11,38
-497,Fatal Frame: Maiden of Black Water,0.11,67
-498,Deus Ex: Human Revolution,0.11,90
-499,Scribblenauts Unmasked: A DC Comics Adventure,0.1,71
+410,Paper Mario: Color Splash,0.42,75
+407,Borderlands: The Handsome Collection,0.43,80
+408,Lego Batman 3: Beyond Gotham,0.43,74
+409,Max Payne 3,0.43,87
+405,Mario Tennis Ultra Smash,0.44,58
+406,Disney Infinity 2.0: Marvel Super Heroes,0.44,74
+401,Just Dance 2014,0.45,71
+402,Lego Batman 3: Beyond Gotham,0.45,70
+403,Wolfenstein: The New Order,0.45,81
+404,Watch Dogs,0.45,77
+396,Football Manager 2015,0.46,80
+397,The Sims 3: Ambitions,0.46,74
+398,Thief (2014),0.46,67
+399,Disney Infinity 3.0,0.46,80
+400,The Sims 3: Outdoor Living Stuff,0.46,53
+391,Rock Band 4,0.47,79
+392,World of Warcraft: Warlords of Draenor,0.47,87
+393,FIFA Soccer 13,0.47,69
+394,FIFA 12,0.47,89
+395,EA Sports UFC,0.47,70
+386,Puzzle & Dragons Z + Super Mario Bros. Edition,0.48,73
+387,Mad Max (2015),0.48,72
+388,Skylanders: SuperChargers,0.48,87
+389,Plants vs. Zombies: Garden Warfare 2,0.48,80
+390,NHL 16,0.48,80
+376,Ridge Racer 3D,0.49,75
+377,Super Monkey Ball 3D,0.49,55
+378,Sonic Lost World,0.49,59
+379,Resident Evil: The Mercenaries 3D,0.49,65
+380,Epic Mickey: Power of Illusion,0.49,63
+381,Pokemon Art Academy ,0.49,76
+382,Medal of Honor,0.49,72
+383,Asphalt 3D,0.49,43
+384,Steel Diver,0.49,58
+385,Bravely Second: End Layer,0.49,81
+375,Theatrhythm: Final Fantasy,0.5,78
+372,Sonic & All-Stars Racing Transformed,0.51,78
+373,Alien: Isolation,0.51,78
+374,Dishonored,0.51,91
+370,LEGO Jurassic World,0.52,71
+371,Kirby and the Rainbow Curse,0.52,73
+362,Inazuma Eleven GO,0.53,75
+363,LEGO Dimensions,0.53,62
+364,Just Dance 2015,0.53,70
+365,The LEGO Movie Videogame,0.53,69
+366,Overwatch,0.53,91
+367,Mario & Sonic at the Rio 2016 Olympic Games,0.53,60
+368,StarCraft II: Legacy of the Void,0.53,88
+369,Batman: Arkham City,0.53,91
+361,Final Fantasy Explorers,0.54,69
+357,Guitar Hero Live,0.55,81
+358,Assassin's Creed: Unity,0.55,70
+359,Assassin's Creed II,0.55,86
+360,Star Wars Battlefront (2015),0.55,73
+352,Xenoblade Chronicles,0.56,86
+353,Titanfall,0.56,86
+354,Minecraft: Story Mode,0.56,77
+355,Yokai Sangokushi,0.56,76
+356,Quantum Break,0.56,77
+347,Skylanders: Spyro's Adventure,0.57,82
+348,Titanfall 2,0.57,87
+349,WWE 2K15,0.57,56
+350,Just Dance 2016,0.57,73
+351,Rune Factory 4,0.57,78
+344,Deus Ex: Human Revolution,0.58,90
+345,Skylanders SWAP Force,0.58,89
+346,Shin Megami Tensei IV,0.58,83
+342,WWE 2K16,0.59,72
+343,Assassin's Creed: Brotherhood,0.59,88
+337,Kinect Sports Rivals,0.6,60
+338,Disney Infinity,0.6,71
+339, Frozen: Olaf's Quest,0.6,52
+340,Just Dance 2014,0.6,72
+341,Total War: Shogun 2,0.6,90
+334,Cooking Mama 4: Kitchen Magic!,0.61,56
+335,Scribblenauts: Unlimited,0.61,73
+336,Tomb Raider (2013),0.61,86
+330,LEGO Jurassic World,0.62,70
+331,LEGO Pirates of the Caribbean: The Video Game,0.62,71
+332,Mafia III,0.62,67
+333,Toshochu: Run for Money,0.62,37
+323,Dragon Quest Monsters Joker 3,0.63,77
+324,Dragon Age II,0.63,82
+325,Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb,0.63,70
+326,Far Cry 4,0.63,80
+327,The Sims 3: Generations,0.63,70
+328,Angry Birds Trilogy,0.63,62
+329,Crysis 3,0.63,76
+317,Assassin's Creed IV: Black Flag,0.64,84
+318,The LEGO Movie Videogame,0.64,68
+319,Rayman 3D,0.64,61
+320,Football Manager 2014,0.64,85
+321,The Crew,0.64,64
+322,Evolve,0.64,74
+313,LEGO Jurassic World,0.65,70
+314,Rocksmith 2014,0.65,89
+315,Disney Infinity 2.0: Marvel Super Heroes,0.65,74
+316,Farming Simulator 17,0.65,64
+308,The Sims 3: High-End Loft Stuff,0.66,63
+309,Diablo III,0.66,88
+310,Napoleon: Total War,0.66,81
+311,Rayman Legends,0.66,92
+312,BioShock Infinite,0.66,94
+306,RIFT,0.67,84
+307,The Evil Within,0.67,79
+304,Minecraft,0.68,77
+305,Wolfenstein: The New Order,0.68,79
+298,Monster Hunter Tri,0.69,84
+299,The LEGO Movie Videogame,0.69,71
+300,Need for Speed (2015),0.69,66
+301,Plants vs. Zombies: Garden Warfare,0.69,76
+302,Need for Speed Rivals,0.69,75
+303,The Sims: Medieval,0.69,77
+296,Skylanders: Trap Team,0.7,86
+297,Call of Duty: Ghosts,0.7,68
+295,XCOM: Enemy Unknown,0.71,89
+291,Total War: Rome II,0.72,76
+292,Persona Q: Shadow of the Labyrinth,0.72,83
+293,The Witcher 3: Wild Hunt,0.72,93
+294,Battlefield: Bad Company 2,0.72,87
+286,Dragon Age: Inquisition,0.73,85
+287,Style Savvy: Trendsetters,0.73,76
+288,LEGO Marvel's Avengers,0.73,71
+289,Just Dance 2015,0.73,75
+290,LEGO Dimensions,0.73,80
+279,Rhythm Heaven: The Best+,0.74,83
+280,Assassin's Creed: Revelations,0.74,80
+281,Final Fantasy X/X-2 HD Remaster,0.74,85
+282,Dragon Quest Heroes: The World's Tree Woe and the Blight Below,0.74,77
+283,The Elder Scrolls V: Skyrim,0.74,82
+284,Crysis 2,0.74,86
+285,LEGO Marvel Super Heroes,0.74,82
+272,Professor Layton and the Azran Legacy,0.75,81
+273,Nintendo Presents: New Style Boutique 2 - Fashion Forward,0.75,78
+274,Titanfall 2,0.75,89
+275,Metal Gear Solid V: The Phantom Pain,0.75,95
+276,LEGO Batman 2: DC Super Heroes,0.75,72
+277,Pro Evolution Soccer 2015,0.75,82
+278,Final Fantasy XIV: A Realm Reborn,0.75,86
+267,Bayonetta 2,0.76,91
+268,Doom (2016),0.76,85
+269,The Sims 3,0.76,52
+270,Portal 2,0.76,95
+271,Mario & Luigi: Paper Jam,0.76,76
+266,Mario & Sonic at the Sochi 2014 Olympic Winter Games,0.78,55
+263,Dragon Quest Monsters 2,0.79,77
+264,Pro Evolution Soccer 2016,0.79,87
+265,Rare Replay,0.79,84
+262,Professor Layton vs Phoenix Wright: Ace Attorney,0.8,79
+261,Madden NFL 25,0.81,73
+260,Thief (2014),0.82,67
+259,Tales of the Abyss,0.83,75
+258,Xenoblade Chronicles X,0.84,84
+257,Wii Fit U,0.85,72
+255,Dragon Quest VIII: Journey of the Cursed King,0.86,85
+256,Guitar Hero Live,0.86,80
+254,Monster Strike 3DS,0.87,79
+251,Far Cry: Primal,0.88,77
+252,Resident Evil: Revelations,0.88,82
+253,Borderlands: The Handsome Collection,0.88,82
+250,MLB 16: The Show,0.89,85
+244,Street Fighter V,0.9,77
+245,Just Cause 3,0.9,71
+246,LEGO Jurassic World,0.9,70
+247,The Elder Scrolls Online,0.9,71
+248,Madden NFL 25,0.9,74
+249,LEGO Marvel Super Heroes,0.9,61
+241,Harvest Moon 3D: A New Beginning,0.91,74
+242,Injustice: Gods Among Us,0.91,80
+243,NBA 2K14,0.91,86
+239,Disney Magical World,0.92,71
+240,MLB 15: The Show,0.92,80
+233,EA Sports UFC 2,0.93,79
+234,Dragon Age: Inquisition,0.93,85
+235,Kirby: Planet Robobot,0.93,81
+236,Lego Batman 3: Beyond Gotham,0.93,73
+237,Assassin's Creed III,0.93,80
+238,Borderlands 2,0.93,89
+231,Star Fox 64 3D,0.94,81
+232,Rise of the Tomb Raider,0.94,88
+229,Mario Tennis Open,0.95,69
+230,PilotWings Resort,0.95,71
+224,Far Cry 3,0.96,88
+225,Evolve,0.96,76
+226,Farming Simulator 2013,0.96,65
+227,Dragon Quest Monsters: Terry's Wonderland 3D,0.96,75
+228,The Witcher 2: Assassins of Kings,0.96,88
+223,Mass Effect 3,0.97,89
+222,Final Fantasy Type-0,0.98,72
+219,Rayman Legends,1.01,90
+220,ZombiU,1.01,77
+221,Pokken Tournament,1.01,76
+217,NBA 2K17,1.02,90
+218,Sonic Generations,1.02,66
+216,The Legend of Zelda: Twilight Princess HD,1.03,86
+215,EA Sports UFC,1.05,70
+213,Overwatch,1.06,91
+214,LEGO Marvel Super Heroes,1.06,83
+212,Forza Horizon 3,1.08,91
+211,Project CARS,1.09,83
+210,LEGO City Undercover,1.1,80
+208,Pikmin 3,1.11,87
+209,Dragon Ball: XenoVerse,1.11,69
+207,The Legend of Zelda: Tri Force Heroes,1.12,73
+203,Watch Dogs 2,1.13,83
+204,LEGO Star Wars III: The Clone Wars,1.13,67
+205,Alien: Isolation,1.13,79
+206,Fantasy Life,1.13,73
+200,Pokemon Rumble Blast,1.14,56
+201,Sunset Overdrive,1.14,81
+202,Naruto Shippuden: Ultimate Ninja Storm 4,1.14,79
+198,Football Manager 2013,1.15,86
+199,WWE 2K15,1.15,62
+197,FIFA 14,1.16,88
+194,Mad Max (2015),1.17,69
+195,Grand Theft Auto V,1.17,96
+196,Fallout: New Vegas,1.17,84
+193,Mario & Sonic at the London 2012 Olympic Games,1.18,66
+191,Captain Toad: Treasure Tracker,1.19,81
+192,Destiny: The Taken King,1.19,89
+190,Farming Simulator 2015,1.2,54
+187,Super Street Fighter IV: 3D Edition,1.21,85
+188,WWE 2K16,1.21,73
+189,Battlefield: Hardline,1.21,71
+185,Madden NFL 17,1.23,83
+186,Hyrule Warriors,1.23,76
+184,Pokemon Super Mystery Dungeon,1.25,69
+183,Football Manager 2011,1.26,85
+180,Kid Icarus: Uprising,1.27,83
+181,Pokemon Mystery Dungeon: Gates to Infinity,1.27,59
+182,Metal Gear Solid V: Ground Zeroes,1.27,75
+179,The Elder Scrolls Online,1.28,77
+177,Dying Light,1.29,74
+178,Fallout 4,1.29,84
+175,Yoshi's Woolly World,1.3,78
+176,Assassin's Creed Syndicate,1.3,78
+174,The Witcher 3: Wild Hunt,1.31,91
+172,Yokai Watch 3,1.33,80
+173,The Elder Scrolls V: Skyrim,1.33,81
+171,Tom Clancy's Rainbow Six: Siege,1.34,74
+168,Middle-Earth: Shadow of Mordor,1.35,87
+169,Battlefield 4,1.35,81
+170,Gears of War 4,1.35,84
+163,Yoshi's New Island,1.38,64
+164,Bravely Default: Flying Fairy,1.38,85
+165,Ryse: Son of Rome,1.38,60
+166,Mortal Kombat X,1.38,86
+167,Rise of the Tomb Raider,1.38,86
+161,Tomb Raider (2013),1.4,87
+162,Forza Horizon 2,1.4,86
+160,SimCity (2013),1.42,64
+159,Anno 2070,1.43,83
+158,NBA 2K14,1.45,85
+157,Dragon Quest VII: Warriors of Eden,1.46,81
+156,LEGO City Undercover,1.47,62
+154,Batman: Arkham Knight,1.49,85
+155,Doom (2016),1.49,85
+152,Puzzle & Dragons,1.51,73
+153,Football Manager 2012,1.51,84
+150,Donkey Kong Country: Tropical Freeze,1.52,83
+151,Final Fantasy XIV: A Realm Reborn,1.52,86
+149,Call of Duty: Black Ops II,1.53,74
+148,Ratchet & Clank (2016),1.54,85
+147,Wolfenstein: The New Order,1.55,79
+144,Dead Rising 3,1.57,78
+145,Watch Dogs,1.57,78
+146,Madden NFL 15,1.57,80
+142,Kingdom Hearts 3D: Dream Drop Distance,1.58,75
+143,Mario Party 10,1.58,66
+141,LEGO Marvel Super Heroes,1.62,83
+140,Far Cry 4,1.63,82
+139,Dark Souls III,1.65,89
+138,Until Dawn,1.66,79
+137,StarCraft II: Heart of the Swarm,1.67,86
+135,Sid Meier's Civilization V,1.68,90
+136, Fire Emblem Fates,1.68,87
+133,The Sims 3: Late Night Expansion Pack,1.7,74
+134,No Man's Sky,1.7,71
+130,The Crew,1.72,61
+131,NBA 2K15,1.72,82
+132,Call of Duty: Modern Warfare 3,1.72,78
+129,Knack,1.73,54
+128,The Order: 1886,1.74,63
+125,Madden NFL 17,1.75,82
+126,The Elder Scrolls Online,1.75,74
+127,Wii Party U,1.75,65
+122,The Evil Within,1.79,75
+123,The Legend of Zelda: The Wind Waker,1.79,90
+124,Professor Layton and the Mask of Miracle,1.79,82
+121,Forza Motorsport 6,1.8,87
+120,Mafia III,1.81,68
+118,Diablo III,1.82,90
+119,World of Warcraft: Mists of Pandaria,1.82,82
+117,Kirby: Triple Deluxe,1.83,80
+116,Just Cause 3,1.86,73
+115,NBA 2K17,1.88,88
+114,Donkey Kong Country Returns,1.89,83
+113,LittleBigPlanet 3,1.91,79
+112,Mario Party: Island Tour,1.92,57
+111,Destiny: The Taken King,1.93,86
+110,Need for Speed Rivals,1.98,80
+108,Fire Emblem: Awakening,2.01,92
+109,Dragon Age: Inquisition,2.01,89
+107,Battlefield 4,2.02,81
+106,DriveClub,2.07,71
+104,World of Warcraft: Cataclysm,2.08,90
+105,Mario & Luigi: Dream Team,2.08,81
+102,Dying Light,2.09,74
+103,Yokai Watch,2.09,76
+101,Battlefield: Hardline,2.1,73
+100,Overwatch,2.14,90
+99,Tom Clancy's The Division,2.16,80
+98,FIFA 15,2.18,82
+97,Madden NFL 15,2.19,81
+96,Forza Motorsport 5,2.2,79
+95,Tom Clancy's Rainbow Six: Siege,2.21,73
+94,Assassin's Creed IV: Black Flag,2.23,76
+93,New Super Luigi U,2.24,77
+92,Battlefield 1,2.25,87
+91,Far Cry: Primal,2.26,76
+90,Yokai Watch Busters,2.29,67
+89,Paper Mario: Sticker Star,2.3,75
+88,Guild Wars 2,2.31,90
+86,The Legend of Zelda: Majora's Mask 3D,2.34,89
+87,NBA 2K16,2.34,86
+84,Call of Duty: Infinite Warfare,2.42,78
+85,Madden NFL 16,2.42,84
+83,Need for Speed (2015),2.43,66
+82,NBA 2K15,2.45,83
+81,Bloodborne,2.48,92
+80,FIFA 17,2.65,84
+79,Yokai Watch 2 Shinuchi,2.68,70
+78,Killzone: Shadow Fall,2.69,73
+77,Minecraft,2.76,88
+75,Battlefield 3,2.78,89
+76,Mortal Kombat X,2.78,83
+73,inFAMOUS: Second Son,2.79,80
+74,Monster Hunter Tri,2.79,79
+72,Assassin's Creed IV: Black Flag,2.85,83
+71,Call of Duty: Ghosts,2.92,78
+70,Titanfall,2.95,86
+68,Star Wars: The Old Republic,2.96,85
+69,Middle-Earth: Shadow of Mordor,2.96,84
+67,FIFA 14,3.01,87
+65,Animal Crossing: Happy Home Designer,3.05,66
+66,The Sims 4,3.05,70
+64,The Legend of Zelda: A Link Between Worlds,3.1,91
+63,Super Mario Maker,3.21,88
+62,Halo: The Master Chief Collection,3.23,85
+61,Madden NFL 16,3.24,83
+60,FIFA 16,3.25,84
+58,Yokai Watch 2 Ganso/Honke,3.28,72
+59,Gears of War: Ultimate Edition,3.28,82
+57,Monster Hunter X,3.32,80
+56,Destiny,3.37,75
+55,Assassin's Creed Syndicate,3.39,76
+54,Metal Gear Solid V: The Phantom Pain,3.41,93
+53,Monster Hunter 4,3.44,86
+52,Assassin's Creed: Unity,3.5,72
+51,Battlefield 4,3.59,85
+50,Star Wars Battlefront (2015),3.66,75
+49,Tom Clancy's The Division,3.8,80
+48,Call of Duty: Ghosts,3.83,78
+47,Nintendogs + cats,3.85,71
+45,The Elder Scrolls V: Skyrim,3.88,94
+46,NBA 2K16,3.88,87
+44,Monster Hunter 4 Ultimate,3.89,86
+43,Batman: Arkham Knight,3.95,87
+42,Assassin's Creed: Unity,3.96,70
+41,The Witcher 3: Wild Hunt,3.97,92
+40,Far Cry 4,4.04,85
+39,Watch Dogs,4.05,80
+38,Battlefield 1,4.08,88
+37,Fallout 4,4.22,88
+35,Super Mario 3D World,4.32,93
+36,Minecraft,4.32,89
+34,The Legend of Zelda: Ocarina of Time,4.33,94
+33,Nintendo Land,4.42,77
+32,Splatoon,4.43,81
+31,Call of Duty: Infinite Warfare,4.46,77
+30,Halo 5: Guardians,4.48,84
+29,Luigi's Mansion: Dark Moon,4.59,86
+28,Uncharted: The Nathan Drake Collection,4.62,86
+27,The Last of Us,4.71,95
+26,StarCraft II: Wings of Liberty,4.84,93
+25,Super Smash Bros. for Wii U and 3DS,4.87,92
+24,Diablo III,5.14,88
+23,New Super Mario Bros. U,5.22,84
+22,Tomodachi Life,5.23,71
+21,Call of Duty: Advanced Warfare,5.27,81
+20,Uncharted 4: A Thief's End,5.38,93
+19,Grand Theft Auto V,5.48,97
+18,Destiny,5.64,76
+17,FIFA 15,6.08,82
+16,Mario Kart 8,7.09,88
+15,Pokemon Sun/Moon,7.14,87
+14,Fallout 4,7.16,87
+13,Call of Duty: Black Ops 3,7.39,81
+12,Super Smash Bros. for Wii U and 3DS,7.55,92
+11,FIFA 17,7.59,85
+10,Call of Duty: Advanced Warfare,7.66,83
+9,Star Wars Battlefront (2015),7.98,73
+8,FIFA 16,8.57,82
+7,Animal Crossing: New Leaf,9.16,88
+6,New Super Mario Bros. 2,9.9,78
+5,Super Mario 3D Land,10.81,90
+4,Pokemon Omega Ruby/Pokemon Alpha Sapphire,11.68,83
+3,Grand Theft Auto V,12.61,97
+2,Mario Kart 7,12.66,85
+1,Pokemon X/Pokemon Y,14.6,87
+0,Call of Duty: Black Ops 3,14.63,81
