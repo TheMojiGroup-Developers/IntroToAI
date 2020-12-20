@@ -48,6 +48,12 @@ print('Global Sales x Genre: %.3f' % corr)
 corr, _ = pearsonr(data.Global_Sales, data.Publisher)
 print('Global Sales x Publisher: %.3f' % corr)
 
+# Heatmap for pearsons correlation
+plt.figure(figsize=(12,12))
+cor = data.corr()
+sns.heatmap(cor, annot=True, cmap=plt.cm.Reds)
+plt.show()
+
 #Create barchart for global sales against platforms
 platf_sales_top10 = platf_sales.iloc[0:10, 0:10]
 ax = platf_sales_top10.plot(
