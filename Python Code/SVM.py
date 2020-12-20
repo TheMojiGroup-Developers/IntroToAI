@@ -24,3 +24,4 @@ plt.title('Support Vector Regression Model')
 plt.xlabel('Critic Score')
 plt.ylabel('Global Sale')
 plt.show()
+
