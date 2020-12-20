@@ -71,8 +71,15 @@ y = data.Critic_Score.values.reshape(-1, 1)
 #split data into testing and training
 X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=1/5, random_state=10)
 
+#Regression plot with best fit line.
+fig, ax = plt.subplots(1,1, figsize=(12,5))
 sns.regplot(x="Critic_Score", y="Global_Sales", data=data, ci=None,
             color="blue", line_kws={"color": "red"}, x_jitter=.02).set(ylim=(0, 17.5))
+
+#Use of bins to make it clearer and less messy
+fig, ax = plt.subplots(1,1, figsize=(12,5))
+sns.regplot(x="Critic_Score", y="Global_Sales", data=data.loc[data.Year_of_Release >= 2014],
+            truncate=True, x_bins=15, color="#75556c").set(ylim=(0, 4), xlim=(50, 95))
 model = LinearRegression()
 model.fit(x,y)
 print(model.coef_)
