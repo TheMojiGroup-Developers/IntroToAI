@@ -28,6 +28,6 @@ plt.scatter(X, y, color='magenta')
 plt.plot(X, regressor.predict(X), color='green')
 plt.title('Support Vector Regression Model')
 plt.xlabel('Critic Score')
-plt.ylabel('Global Sale')
+plt.ylabel('Global Sales')
 plt.show()
 
