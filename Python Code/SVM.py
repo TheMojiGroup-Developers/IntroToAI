@@ -57,4 +57,5 @@ print(y_pred)
 # produce RMSE value
 mse = mean_squared_error(y_test, y_pred)
 rmse = np.sqrt(mse)
+print('Mean Squared Error:', mse)
 print('Root Mean Squared Error:', rmse)
