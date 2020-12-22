@@ -15,9 +15,9 @@ from math import sqrt
 
 # set your path
 path_kevin = "C:/Users/Kevin/Documents/GitHub/IntroToAI"
-path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
+#path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
 # read in the data as csv
-filename_read = os.path.join(path_saffan, "VideoGameSalesWithRating.csv")
+filename_read = os.path.join(path_kevin, "VideoGameSalesWithRating.csv")
 data = pd.read_csv(filename_read)
 
 print(data.info)
@@ -56,7 +56,7 @@ corr, _ = pearsonr(data.Global_Sales, data.Publisher)
 print('Global Sales x Publisher: %.3f' % corr)
 
 # Heatmap for pearsons correlation
-plt.figure(figsize=(12,12))
+plt.figure(figsize=(12,14))
 cor = data.corr()
 sns.heatmap(cor, annot=True, cmap=plt.cm.Reds)
 plt.show()
