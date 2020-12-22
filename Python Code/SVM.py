@@ -26,7 +26,6 @@ y = sc_y.fit_transform(y)
 regressor = SVR(kernel='poly')
 regressor.fit(X, y.ravel())
 
-
 # Makes the prediction line smoother
 X_grid = np.arange(min(X), max(X), 0.1)
 X_grid = X_grid.reshape((len(X_grid), 1))
