@@ -16,9 +16,9 @@ from sklearn import metrics
 
 # set your path
 path_kevin = "C:/Users/Kevin/Documents/GitHub/IntroToAI"
-#path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
+path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
 # read in the data as csv
-filename_read = os.path.join(path_kevin, "RandomForestGlobalSales&CriticScore.csv")
+filename_read = os.path.join(path_saffan, "RandomForestGlobalSales&CriticScore.csv")
 dataset = pd.read_csv(filename_read)
 
 print(dataset)
