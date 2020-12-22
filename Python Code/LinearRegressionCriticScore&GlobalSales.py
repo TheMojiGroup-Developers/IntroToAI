@@ -13,8 +13,13 @@ from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error
 from math import sqrt
 
-data = pd.read_csv(
-    "/Users/Kevin/Documents/Github/IntroToAI/VideoGameSalesWithRating.csv")
+# set your path
+path_kevin = "C:/Users/Kevin/Documents/GitHub/IntroToAI"
+path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
+# read in the data as csv
+filename_read = os.path.join(path_saffan, "VideoGameSalesWithRating.csv")
+data = pd.read_csv(filename_read)
+
 print(data.info)
 print(data.describe())
 print(data.head(100))  # Lists the first Top 100 games from dataset.
