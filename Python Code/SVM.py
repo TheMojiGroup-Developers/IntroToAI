@@ -9,9 +9,9 @@ from sklearn.preprocessing import StandardScaler
 
 # set your path
 path_kevin = "C:/Users/Kevin/Documents/GitHub/IntroToAI"
-path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
+#path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
 # read in the data as csv
-filename_read = os.path.join(path_saffan, "VideoGameSalesWithRating.csv")
+filename_read = os.path.join(path_kevin, "VideoGameSalesWithRating.csv")
 dataset = pd.read_csv(filename_read)
 
 X = dataset.iloc[:, 10:11].values.astype(float)
@@ -23,11 +23,10 @@ X = sc_X.fit_transform(X)
 y = sc_y.fit_transform(y)
 
 # Not sure what kernel to use. Either "poly", "rbf", or "linear"
-regressor = SVR(kernel='rbf')
+regressor = SVR(kernel='poly')
 regressor.fit(X, y.ravel())
 
-
-# Makes the prediction line more smoother
+# Makes the prediction line smoother
 X_grid = np.arange(min(X), max(X), 0.1)
 X_grid = X_grid.reshape((len(X_grid), 1))
 plt.scatter(X, y, color='magenta')
@@ -46,7 +45,7 @@ y = dataset.Global_Sales.values.reshape(-1, 1)
 
 # trains the data set
 x_train, x_test, y_train, y_test = train_test_split(
-    x, y, test_size=0.20, random_state=42)
+    x, y, test_size=1/5, random_state=42)
 SupportVectorRegModel = SVR()
 SupportVectorRegModel.fit(x_train, y_train)
 
@@ -57,5 +56,6 @@ print(y_pred)
 # produce RMSE value
 mse = mean_squared_error(y_test, y_pred)
 rmse = np.sqrt(mse)
+print ("Mean:", mse)
 print('Mean Squared Error:', mse)
 print('Root Mean Squared Error:', rmse)

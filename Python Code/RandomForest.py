@@ -12,33 +12,30 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
+from sklearn import metrics
 
 # set your path
 path_kevin = "C:/Users/Kevin/Documents/GitHub/IntroToAI"
-path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
+#path_saffan = "/Users/saffanahmed/Documents/IntroToAI/IntroToAI/"
 # read in the data as csv
-filename_read = os.path.join(path_saffan, "RandomForestGlobalSales&CriticScore.csv")
+filename_read = os.path.join(path_kevin, "RandomForestGlobalSales&CriticScore.csv")
 dataset = pd.read_csv(filename_read)
 
 print(dataset)
 
 x = dataset.iloc[:, 2:3].values  
-print(x) 
 y = dataset.iloc[:, 3].values 
 
-print(x)
-print(y)
+X_train, X_test, y_train, y_test = train_test_split(x, y, test_size = 0.2, random_state = 0)
 
-
-  
- # create regressor object 
+# create regressor object 
 regressor = RandomForestRegressor(n_estimators = 100, random_state = 0) 
   
 # fit the regressor with x and y data 
-regressor.fit(x, y)
+regressor.fit(X_train, y_train)
 
 # predicting a new result 
-Y_pred = regressor.predict(np.array([6.5]).reshape(1, 1))  # test the output by changing values
+Y_pred = regressor.predict(X_test)  
 
 # Visualising the Random Forest Regression results 
   
@@ -63,45 +60,8 @@ plt.xlabel('Critic Score')
 plt.ylabel('Global Sales') 
 plt.show()
 
-# print(dataset.shape)
-# print(dataset[:5])
+# Evaluating the Random Forest Algorithm
+print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, Y_pred))  
+print('Mean Squared Error:', metrics.mean_squared_error(y_test, Y_pred))  
+print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, Y_pred)))
 
-# dataset.columns = ['Name', 'Platform', 'Year_of_Release', 'Genre', 'Publisher', 'NA_Sales', 'EU_Sales', 'JP_Sales',
-#                    'Other_Sales', 'Global_Sales', 'Critic_Score', 'Critic_Count']
-
-# # Encode the feature values which are strings to integers
-# for label in dataset.columns:
-#     dataset[label] = LabelEncoder().fit(
-#         dataset[label]).transform(dataset[label])
-
-# # Create our X and y data
-# result = []
-# for x in dataset.columns:
-#     if x != 'Name':
-#         result.append(x)
-
-# X = dataset[result].values
-# y = dataset['Name'].values
-
-# # print(X[:5])
-
-# # Instantiate the model with 10 trees and entropy as splitting criteria
-# Random_Forest_model = RandomForestClassifier(
-#     n_estimators=10, criterion="entropy")
-
-# # Training/testing split
-# X_train, X_test, y_train, y_test = train_test_split(
-#     X, y, test_size=0.20, random_state=7)
-
-# # Train the model
-# Random_Forest_model.fit(X_train, y_train)
-
-# # make predictions
-# y_pred = Random_Forest_model.predict(X_test)
-
-# # print(y_pred[:5])
-# # print(y_test[:5])
-
-# # Calculate accuracy metric
-# accuracy = accuracy_score(y_pred, y_test)
-# print('The accuracy is: ', accuracy*100, '%')
