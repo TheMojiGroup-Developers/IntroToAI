@@ -45,7 +45,7 @@ y = dataset.Global_Sales.values.reshape(-1, 1)
 
 # trains the data set
 x_train, x_test, y_train, y_test = train_test_split(
-    x, y, test_size=1/5, random_state=42)
+    x, y, test_size=1/5, random_state=50)
 SupportVectorRegModel = SVR()
 SupportVectorRegModel.fit(x_train, y_train)
 
